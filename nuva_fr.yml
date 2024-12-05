@@ -62,7 +62,7 @@ fr:
     DIS075: "Fièvre de la vallée du Rift"
     DIS076: "Infection urinaire "
     DIS077: "Entérovirus"
-  vaccine:	
+  vaccine:
     VAC0084: "Vaccin Grippe prépandémique H5N1, sans précision"
     VAC0088: "Vaccin DTP - Diphtérie-Tétanos-Polio, sans précision"
     VAC0101: "Vaccin Hépatite B, recombinant, sans précision"
@@ -404,7 +404,7 @@ fr:
     VAC1249: "Vaccin Grippe, inactivé trivalent, haute dose, voie intradermique, sans précision"
     VAC1256: "Vaccin hexavalent DTCeHibPHepB - Diphtérie-Tétanos-Coqueluche-Hib-Polio-Hépatite B 15µg, sans précision"
     VAC1257: "Vaccin Choléra, entier inactivé oral, bivalent contenant les bactéries V. cholerae O1 et O139 entières inactivées, sans précision"
-  valence:	
+  valence:
     VAL001: "Vaccin trivalent vivant atténué contre la grippe, dose normale"
     VAL002: "Vaccin typhoïdique conjugué, antigène capsulaire polyosidique Vi lié à une protéine porteuse"
     VAL003: "Vaccin coquelucheux, sans précision"
@@ -788,4 +788,3 @@ fr:
     VAL381: "Vaccin anti-covid 19 à ARNm codant la protéine de pointe du SARS-CoV-2, variant Omicron JN.1, 3 microgrammes"
     VAL382: "Vaccin anti-covid 19 à sous-unité protéique, protéine de pointe recombinante dans des nanoparticules, sous-variant Omicron JN.1"
     VAL383: "ARNm simple brin coiffé en 5' codant pour la glycoprotéine F du virus respiratoire syncytial stabilisé dans la conformation de préfusion"
-
