@@ -1,1 +1,620 @@
-{}
+disease:
+  DIS052: Botulisme
+  DIS053: Ziekte van Lyme
+  DIS064: Venezolaanse paardenencefalitis
+  DIS065: Q-koorts
+  DIS001: Difterie
+  DIS002: Tetanus
+  DIS003: Kinkhoest
+  DIS004: Kinderverlamming
+  DIS005: Haemophilus influenzae b
+  DIS006: Hepatitis B
+  DIS008: Mazelen
+  DIS009: Bof
+  DIS010: Rodehond
+  DIS011: Waterpokken
+  DIS014: Tuberculose
+  DIS015: Seizoensgebonden griep
+  DIS016: Hepatitis A
+  DIS017: Gele koorts
+  DIS018: Buiktyfus
+  DIS025: Pneumokokken
+  DIS027: Enċefalite li tinġarr bil-qurdien
+  DIS028: Japanse encefalitis
+  DIS029: Pokken-Monkeypox
+  DIS030: Hondsdolheid
+  DIS031: Knokkelkoorts
+  DIS032: rotavirus
+  DIS033: Gordelroos
+  DIS034: Leptospirose
+  DIS036: Cholera
+  DIS038: Humaan papillomavirus
+  DIS040: Malaria
+  DIS041: Brucellose
+  DIS042: Exanthemateuze tyfus
+  DIS043: Meningokokken C
+  DIS044: Meningokokken A
+  DIS045: Meningokokken B
+  DIS046: Meningokokken W
+  DIS047: Meningokokken Y
+  DIS048: Meningokokken
+  DIS050: Vogelpest
+  DIS051: Miltvuur
+  DIS054: Hepatitis E
+  DIS055: Ebola
+  DIS056: Chikungunya
+  DIS057: COVID-19
+  DIS058: Respiratoir sincytieel virus
+  DIS059: Pest
+  DIS060: Herpes
+  DIS061: Tularemie
+  DIS062: Argentijnse hemorragische koorts
+  DIS063: Adenovirus
+  DIS066: Hantavirus
+  DIS067: Leishmaniasis
+  DIS068: Menselijke para-influenzavirussen
+  DIS070: Cytomegalovirus
+  DIS071: Hepatitis C
+  DIS072: HIV-infectie
+  DIS073: Melanoma
+  DIS074: Streptococcus pyogenes
+  DIS075: Rift Valley-koorts
+  DIS076: Urineweginfectie
+vaccine:
+  VAC0320: OPV 1-2-3, unspecified
+  VAC0358: Rabies immunoglobulin human origin, unspecified
+  VAC0585: TdapIPV - Diphtheria-Tetanus-Pertussis-Polio vaccine, low dose, unspecified
+  VAC0596: DTaPHibHepB pentavalent vaccine, unspecified
+  VAC0598: DTwPHibHepB pentavalent vaccine, unspecified
+  VAC0600: OPV bivalent 1-3, unspecified
+  VAC0711: Typhoid conjugate vaccine, unspecified
+  VAC0712: Typhoid-hepatitis A vaccine, unspecified
+  VAC0713: Typhoid polysaccharide vaccine, unspecified
+  VAC0794: T-igT, unspecified
+  VAC0827: MMRV - Measles-Mumps-Rubella-Varicella vaccine, unspecified
+  VAC0828: Rotavirus pentavalent vaccine, unspecified
+  VAC0829: Rubella-Mumps vaccine, unspecified
+  VAC0854: mOPV3 Sabin monovalent oraal poliovaccin type 3, niet gespecificeerd
+  VAC0855: Difterie-Tetanus-Polio-vaccin, niet gespecificeerd
+  VAC0856: DTaPHib-vaccin, niet gespecificeerd
+  VAC0857: Difterie-Tetanus-Kinkhoest-Hepatitis B-vaccin, niet gespecificeerd
+  VAC0898: Leishmaniasisvaccin, niet gespecificeerd
+  VAC0997: 13-valent conjugaatvaccin tegen pneumokokken, niet gespecificeerd
+  VAC1037: Vaccin tegen tekenencefalitis, Neudörfl-stam, dosis voor kinderen, niet
+    gespecificeerd
+  VAC1038: Vaccin tegen tekenencefalitis, Neudörfl-stam, dosis voor volwassenen, niet
+    gespecificeerd
+  VAC0084: H5N1 pre-pandemic influenza vaccine, unspecified
+  VAC0088: DTIPV vaccine, unspecified
+  VAC0101: Hepatitis B vaccine, unspecified
+  VAC0102: Hepatitis A vaccine, unspecified
+  VAC0110: Influenza vaccine, unspecified
+  VAC0111: Yellow fever vaccine, unspecified
+  VAC0112: Typhoid vaccine, unspecified
+  VAC0113: Rubella vaccine, unspecified
+  VAC0114: Monovalent measles vaccine, unspecified
+  VAC0130: MMR vaccine, unspecified
+  VAC0131: Rabies vaccine, unspecified
+  VAC0132: Tetanus vaccine, unspecified
+  VAC0133: Smallpox vaccine, unspecified
+  VAC0134: BCG vaccine, unspecified
+  VAC0135: Polio vaccine, unspecified
+  VAC0136: DTwP - Diphtheria-Tetanus-Pertussis, unspecified
+  VAC0137: DT vaccine, unspecified
+  VAC0138: Diphtheria-Tetanus-Pertussis-Polio vaccine, unspecified
+  VAC0143: Haemophilus influenzae B (or Hib) vaccine, unspecified
+  VAC0144: Cholera vaccine, unspecified
+  VAC0145: Tick-borne encephalitis vaccine, unspecified
+  VAC0146: Live attenuated Japanese Encephalitis vaccine 14-14-2 strain, unspecified
+  VAC0147: Influenza A(H1N1)2009 vaccine, unspecified
+  VAC0148: Leptospirosis vaccine, unspecified
+  VAC0149: Meningococcal B:14:P1.7,16 vaccine, unspecified
+  VAC0150: Meningococcal conjugate vaccine C, unspecified
+  VAC0151: Meningococcal A + C vaccine, unspecified
+  VAC0152: Unconjugated meningococcal vaccine ACWY, unspecified
+  VAC0153: Mumps vaccine, unspecified
+  VAC0154: Malaria vaccine, unspecified
+  VAC0155: Dengue vaccine, unspecified
+  VAC0156: HPV Vaccine
+  VAC0157: Pneumococcal vaccine, unspecified
+  VAC0158: Rotavirus vaccine, unspecified
+  VAC0159: Chickenpox vaccine, unspecified
+  VAC0160: Live attenuated shingles vaccine, unspecified
+  VAC0162: Brucellosis vaccine, unspecified
+  VAC0163: Whole-cell inactivated pertussis vaccine, unspecified
+  VAC0270: Inactivated Polio vaccine, unspecified
+  VAC0324: Pneumococcal conjugate vaccine, 7 valent, unspecified
+  VAC0339: Pneumococcal polysaccharide vaccine 23-valent, unspecified
+  VAC0344: PRP-OMP Hib vaccine, unspecified
+  VAC0345: Hib PRP-T conjugated vaccine, unspecified
+  VAC0380: T.Polio, unspecified
+  VAC0382: Tetanus diphtheria vaccine, unspecified
+  VAC0424: Live attenuated oral typhoid vaccine, unspecified
+  VAC0497: Tetanus immunoglobulin, unspecified
+  VAC0502: Rabies immunoglobulin, unspecified
+  VAC0503: Rabies immunoglobulin equine origin, unspecified
+  VAC0506: Pentavalent DTaPHibIPV vaccine, unspecified
+  VAC0512: Typhus vaccine, unspecified
+  VAC0549: dTIPV - Diphtheria-Tetanus-Polio, low dose, unspecified
+  VAC0550: Measles-Rubella vaccine, unspecified
+  VAC0551: DTaPIPV vaccine, standard dose, unspecified
+  VAC0552: DTPCaHibHepB-hexavalent vaccin - Difterie-Tetanus-Polio-Acellulaire Kinkhoest-Hib-HepB,
+    niet gespecificeerd
+  VAC0553: Pentavalent DTwPHibIPV vaccine, unspecified
+  VAC0599: DTPerHibHepB pentavalent vaccine, unspecified
+  VAC0601: DPT Diphtheria-Pertussis-Tetanus vaccine, unspecified
+  VAC0602: DTaP - Diphtheria-Tetanus-Pertussis vaccine, standard dose, unspecified
+  VAC0610: Tdap - Diphtheria-Tetanus-Pertussis vaccine, low dose, unspecified
+  VAC0623: Measles-mumps vaccine, unspecified
+  VAC0643: Meningococcal ACWY conjugate vaccine, unspecified
+  VAC0648: COVID-19 vaccine, unspecified
+  VAC0653: Hepatitis A + Hepatitis B vaccine Child, unspecified
+  VAC0654: Hepatitis A + Hepatitis B vaccine Adult, unspecified
+  VAC0655: Diphtheria vaccine, unspecified
+  VAC0775: DTwPHib, unspecified
+  VAC0787: Diphtheria-Tetanus-Rubella, unspecified
+  VAC0788: Hib-IPV, unspecified
+  VAC0790: Diphtheria-Tetanus-Hepatitis B vaccine, unspecified
+  VAC0791: Hexavalent Diphtheria-Tetanus-Pertussis-Polio-Hepatitis B-Hib vaccine,
+    unspecified
+  VAC0792: Diphtheria-Tetanus-Pertussis-Polio-Hepatitis B pentavalent vaccine, unspecified
+  VAC0795: Acellular pertussis vaccine, unspecified
+  VAC0796: Pertussis vaccine, unspecified
+  VAC0797: Diph-T-aP/ap, unspecified
+  VAC0798: Hib-MeningoC vaccine, unspecified
+  VAC0799: DT-Hib vaccine, unspecified
+  VAC0800: Diphtheria-tetanus-pertussis-Hib vaccine, unspecified
+  VAC0801: HepB-Hib, unspecified
+  VAC0802: Monovalent oral polio vaccine - type unknown, unspecified
+  VAC0804: Anthrax vaccine, unspecified
+  VAC0805: Whole-cell inactivated cholera vaccine, unspecified
+  VAC0806: Live attenuated cholera vaccine, unspecified
+  VAC0807: Cholera-Typhoid inactivated vaccine, unspecified
+  VAC0808: Hib-MenCY, unspecified
+  VAC0809: Meningococcal monovalent polysaccharide vaccine, unspecified
+  VAC0810: Meningococcal polyvalent polysaccharide vaccine, unspecified
+  VAC0811: Meningococcal B vaccine, unspecified
+  VAC0812: Inactivated whole plague vaccine, unspecified
+  VAC0813: Pneumococcal unconjugated polysaccharide vaccine, unspecified
+  VAC0814: Pneumococcal conjugate vaccine, serotypes unspecified
+  VAC0815: Pneumo-Hib, unspecified
+  VAC0817: Inactivated Typhoid vaccine, unspecified
+  VAC0818: Typhoid-Paratyphoid vaccine, unspecified
+  VAC0819: Inactivated Japanese Encephalitis vaccine, unspecified
+  VAC0820: Inactivated whole influenza vaccine, unspecified
+  VAC0821: Inactivated influenza vaccine, split or subunit, unspecified
+  VAC0822: Influenza vaccine, live attenuated, unspecified
+  VAC0823: VLP influenza vaccine, unspecified
+  VAC0824: Hepatitis A virosome vaccine, unspecified
+  VAC0825: Combined hepatitis A and hepatitis B vaccine, unspecified
+  VAC0830: Subunit shingles vaccine, unspecified
+  VAC0831: Ebola vaccine, unspecified
+  VAC0832: Herpes Simplex vaccine, unspecified
+  VAC0839: Inactivated whole-cell brucella vaccine, unspecified
+  VAC0849: Tularemievaccin, niet gespecificeerd
+  VAC0852: mOPV2 Sabin monovalent oraal poliovaccin type 2, niet gespecificeerd
+  VAC0853: mOPV1 Sabin monovalent oraal poliovaccin type 1, niet gespecificeerd
+  VAC0858: Bivalent HPV-vaccin, niet gespecificeerd
+  VAC0859: Vierwaardig HPV-vaccin, niet gespecificeerd
+  VAC0860: HPV-vaccin niet-waardig, niet gespecificeerd
+  VAC0861: Multicomponent meningokokken B-vaccin, niet gespecificeerd
+  VAC0862: Mazelenimmunoglobuline, niet gespecificeerd
+  VAC0863: Hepatitis B-immunoglobuline, niet gespecificeerd
+  VAC0864: Varicella-Zoster immunoglobuline, niet gespecificeerd
+  VAC0865: Polysacharide meningokokken A-vaccin, niet gespecificeerd
+  VAC0866: Meningokokkenconjugaatvaccin A, niet gespecificeerd
+  VAC0867: Difterie-antitoxine, niet gespecificeerd
+  VAC0880: Pentavalent difterie-tetanus-kinkhoest-Hib-polio (DTPerHibIPV) vaccin,
+    niet gespecificeerd
+  VAC0881: Levend verzwakt vaccin tegen Japanse encefalitis, niet gespecificeerd
+  VAC0894: Adenovirus vaccine, unspecified
+  VAC0895: Venezolaanse paardenencefalitisvaccin, niet gespecificeerd
+  VAC0896: Q-koortsvaccin, niet gespecificeerd
+  VAC0899: Humaan para-influenzavirusvaccin, niet gespecificeerd
+  VAC0897: Hantavirusvaccin, niet gespecificeerd
+  VAC0902: Rabiësvaccin Semple-type, niet gespecificeerd
+  VAC0903: Rabiësvaccin Fuenzalida-type, niet gespecificeerd
+  VAC0904: Eendenembryovaccin tegen hondsdolheid, niet gespecificeerd
+  VAC0905: Rabiësvaccin PHKCV, niet gespecificeerd
+  VAC0906: Gordelroosvaccin, niet gespecificeerd
+  VAC0907: Vaccin tegen adenovirus type 4, niet gespecificeerd
+  VAC0908: Vaccin tegen adenovirus type 7, niet gespecificeerd
+  VAC0909: Botuline-antitoxine
+  VAC0910: Geïnactiveerd hepatitis A-vaccin, dosis voor volwassenen, niet gespecificeerd
+  VAC0911: Hepatitis Een volledig geïnactiveerd vaccin, monovalent, pediatrische dosis,
+    niet gespecificeerd
+  VAC0915: Hepatitis B-vaccin, monovalent, dosering voor volwassenen, niet gespecificeerd
+  VAC0912: Hepatitis A-vaccin, dosis voor kinderen, niet gespecificeerd
+  VAC0914: Hepatitis B-vaccin, monovalent, dosis voor kinderen, niet gespecificeerd
+  VAC0916: Hepatitis B-vaccin, monovalent, dosering voor dialysepatiënten, niet gespecificeerd
+  VAC0917: Hepatitis E-vaccin, niet gespecificeerd
+  VAC0918: PRP-D Hib-vaccin, niet gespecificeerd
+  VAC0919: Hib-hbOC-vaccin, niet gespecificeerd
+  VAC0920: Difterie-tetanus Td-vaccin, niet gespecificeerd
+  VAC0921: Vaccin tegen Japanse encefalitis, niet gespecificeerd
+  VAC0922: Levend verzwakt adenovirusvaccin, type 4 en type 7, oraal
+  VAC0923: Respiratoir syncytieel virus monoklonaal antilichaam, niet gespecificeerd
+  VAC0925: Trivalent geïnactiveerd influenzavaccin, niet gespecificeerd
+  VAC0927: COVID-19 mRNA-vaccin, dosis voor kinderen, niet gespecificeerd
+  VAC0928: Levend verzwakt hepatitis A-vaccin, niet gespecificeerd
+  VAC0929: Quadrivalent geïnactiveerd griepvaccin, dosis voor kinderen, niet gespecificeerd
+  VAC0932: Quadrivalent recombinant influenzavaccin, niet gespecificeerd
+  VAC0937: Botulismevaccin, niet gespecificeerd
+  VAC0938: Quadrivalent griepvaccin, niet gespecificeerd
+  VAC0941: Immunoglobuline tegen miltvuur, niet gespecificeerd
+  VAC0942: Rabiësvaccin van kippenembryo's, niet gespecificeerd
+  VAC0943: diploïde cellen van het vaccin tegen rabiës, niet gespecificeerd
+  VAC0944: Geïnactiveerd oraal choleravaccin met volledig virion, niet gespecificeerd
+  VAC0945: Serogroep van meningokokkenvaccin onbekend, niet gespecificeerd
+  VAC1039: COVID-19 mRNA-vaccin, origineel virus, 50 µg, niet gespecificeerd
+  VAC1041: COVID-19 RNA-vaccin, niet gespecificeerd
+  VAC1042: COVID-19-vaccin, niet-replicerende virale vector, niet gespecificeerd
+  VAC1043: COVID-19-vaccin, eiwitsubeenheid, niet gespecificeerd
+  VAC1044: COVID-19-vaccin, volledig virion geïnactiveerd, niet gespecificeerd
+  VAC1062: CMV-immuunglobuline
+  VAC1063: Hepatitis C-vaccin, niet gespecificeerd
+  VAC1064: HIV-vaccin, niet gespecificeerd
+  VAC1065: Leprosy vaccine
+  VAC1066: Melanoomvaccin, niet gespecificeerd
+  VAC1067: Streptococcus pyogenes-vaccin, niet gespecificeerd
+  VAC1068: Rift Valley-koortsvaccin, niet gespecificeerd
+  VAC1069: Vaccinia immune globulin
+  VAC1071: RSV-antilichaam of vaccin, niet gespecificeerd
+  VAC1072: COVID-19 mRNA-vaccin, origineel virus, 25 µg, niet gespecificeerd
+  VAC1073: Vaccin tegen de ziekte van Lyme, niet gespecificeerd
+  VAC1075: Acellulair miltvuurvaccin, niet gespecificeerd
+valence:
+  VAL008: Acellulair pertussisvaccin, standaarddosis
+  VAL016: Rabiës immunoglobuline, niet gespecificeerd
+  VAL017: Acellulair pertussisvaccin, lage dosis
+  VAL018: Pokkenvaccin van de derde generatie, minimaal replicerend levend vacciniavirus
+  VAL080: Geheel virion geïnactiveerd rabiësvaccin, niet gespecificeerd
+  VAL081: Ongespecificeerd choleravaccin
+  VAL082: Humaan papillomavirusvaccin, typen niet gespecificeerd
+  VAL083: Difterietoxoïd, dosis niet gespecificeerd
+  VAL084: COVID-19-vaccin, replicerende vesiculaire stomatitisvirusvector die codeert
+    voor het SARS-CoV-2-spike-eiwit
+  VAL085: Monovalent levend verzwakt oraal poliovaccin type 3
+  VAL096: BCG-vaccin
+  VAL102: Recombinant peptidenvaccin tegen hepatitis E
+  VAL103: Hib-C Haemophilus influenzae type b conjugaatvaccin, niet gespecificeerd
+  VAL104: COVID-19-vaccin, eiwitsubeenheid, recombinant spike-eiwit
+  VAL105: Pneumokokkenvaccin, niet gespecificeerd
+  VAL106: Rotavirusvaccin, niet gespecificeerd
+  VAL107: COVID-19-vaccin, eiwitsubeenheid, recombinante spike-eiwitnanodeeltjes
+  VAL110: Tetanus immunoglobuline
+  VAL137: Meningokokken C-vaccin, ongeconjugeerd polysaccharide
+  VAL138: Geïnactiveerd volledig virusvaccin
+  VAL154: Haemophilus influenzae type b vaccin, PRP oligosacchariden geconjugeerd
+    met mutant difterie toxine CRM197
+  VAL173: Levend verzwakt vaccin tegen Argentijnse hemorragische koorts, Junin-virus
+  VAL174: Hantavirusvaccin, niet gespecificeerd
+  VAL218: Pneumokokkenpolysacharidevaccin, niet-geconjugeerd, serotype 12F
+  VAL260: Geheel virion geïnactiveerd vaccin tegen rabiës, op basis van celcultuur,
+    gezuiverd Vero-celvaccin tegen rabiës (PVRV), Wistar-stam, inactivering met β-propiolacton
+  VAL278: Levend verzwakt adenovirusvaccin, oraal
+  VAL295: Levend vacciniavirus, tweedegeneratievaccin
+  VAL383: Single-stranded 5' capped mRNA encoding the Respiratory syncytial virus
+    glycoprotein F stabilized in the prefusion conformation
+  VAL001: Drievoudig levend verzwakt griepvaccin, normale dosis
+  VAL002: Tyfus geconjugeerd vaccin, Vi polysaccharide antigeen gekoppeld aan een
+    dragereiwit
+  VAL003: Kinkhoestvaccin, niet gespecificeerd
+  VAL004: Geïnactiveerd volledig choleravaccin voor injectie
+  VAL005: Levend verzwakt mazelenvaccin
+  VAL006: Brucella-vaccin, niet gespecificeerd
+  VAL007: Recombinant vesicular stomatitis virus (rVSV) replicatieve vector Ebola-vaccin
+    - EBOV GP glycoproteïne
+  VAL009: Sporozoiet-oppervlakte-eiwitvaccins
+  VAL010: Geheel geïnactiveerd kinkhoestvaccin
+  VAL011: COVID-19-vaccin, eiwitsubeenheid, recombinant spike-eiwit (RBD)
+  VAL012: Hepatitis B-vaccin, recombinant Hepatitis B-virus oppervlakte-antigeen (HBsAg),
+    40 microgram (dosering voor dialysepatiënten)
+  VAL013: Varicella zoster virus (VZV) oppervlakte glycoproteïne E (gE)
+  VAL014: Tyfusvaccin, niet gespecificeerd
+  VAL019: Difterie-antitoxine
+  VAL020: Levend verzwakt vaccin tegen gordelroos
+  VAL021: Oraal geïnactiveerd volledig choleravaccin
+  VAL022: Levend verzwakt pokkenvaccin
+  VAL025: Malariavaccin, niet gespecificeerd
+  VAL026: Meningokokkenvaccin B:14:P1.7,16 met buitenmembraanblaasje-eiwitten
+  VAL027: COVID-19-vaccin, niet-replicerende adenovirus 26-vector die codeert voor
+    het SARS-CoV-2-spike-eiwit
+  VAL028: Gewijzigd vacciniavirus van Ankara, niet-replicerend, derde generatie vaccin,
+    niet gespecificeerd
+  VAL029: Seizoensgriep VLP-vaccin, niet gespecificeerd
+  VAL030: Recombinant anti-Borrelia burgdorferi-vaccin - outer surface protein A (OspA)
+  VAL031: Door teken overgedragen encefalitis
+  VAL032: Tyfuspolysacharidevaccin, niet-geconjugeerd Vi polysacharide-antigeen
+  VAL035: COVID-19 vaccin, plasmide DNA coderend voor het SARS-CoV-2 spike-eiwit
+  VAL033: Monovalent levend verzwakt oraal poliovaccin type 2
+  VAL034: Difterietoxoïd, lage dosis
+  VAL036: Humaan Papillomavirus VLP niet-avalent vaccin, typen 6, 11, 16, 18, 31,
+    33, 45, 52, 58
+  VAL037: Meningokokken A vaccin, ongeconjugeerd polysaccharide
+  VAL038: COVID-19-vaccin, replicerende mazelenvirusvector die codeert voor het SARS-CoV-2-spike-eiwit
+  VAL039: COVID-19-vaccin, VLP, recombinant spike-eiwit
+  VAL041: Meningokokken A, polysaccharideconjugaatvaccin
+  VAL042: Poliovaccin, niet gespecificeerd
+  VAL043: SARS-CoV-2 spike proteïne mRNA 19 vaccin
+  VAL044: Waterpokken
+  VAL045: Geactiveerd volledig paratyfusvaccin
+  VAL046: Tyfus
+  VAL047: Hepatitis B immunoglobuline
+  VAL048: Geactiveerd vaccin tegen de bof in zijn geheel
+  VAL049: Ongeconjugeerd polysaccharide Hib-vaccin
+  VAL050: COVID-19-vaccin, niet-replicerende adenovirus 5-vector die codeert voor
+    het SARS-CoV-2-spike-eiwit, niet gespecificeerd
+  VAL051: Pre-pandemisch vaccin tegen influenza A(H5N1)
+  VAL055: Mazelenimmunoglobuline
+  VAL056: Geheel geïnactiveerd driewaardig poliovaccin voor injectie
+  VAL052: Humaan Papillomavirus VLP quadrivalent vaccin, typen 6, 11, 16 en 18
+  VAL053: COVID-19 vaccin, proteïne-subeenheid, recombinant spike-eiwit, niet gespecificeerd
+  VAL054: COVID-19-vaccin, niet-replicerende gemodificeerde vacciniavirus Ankara-vector
+    die codeert voor het SARS-CoV-2-spike-eiwit
+  VAL057: Meningokokken C-vaccin, polysacharideconjugaat
+  VAL058: Geïnactiveerd, gesplitst of sub-eenheid griepvaccin, niet gespecificeerd
+  VAL059: Quadrivalent levend verzwakt influenzavaccin, standaarddosis
+  VAL060: Levend verzwakt chikungunya-vaccin
+  VAL061: COVID-19-vaccin, eiwitsubeenheid, recombinant spike-eiwit, S-2P en CpG1018
+  VAL063: Botulisme antitoxine
+  VAL065: Levend verzwakt recombinant chimeer tetravalent dengue-vaccin
+  VAL066: Anti-covid 19 replicatief virusvectorvaccin, influenzavirus dat codeert
+    voor het piekeiwit van SARS-CoV-2
+  VAL067: Tetanustoxoïde
+  VAL068: Hepatitis B-vaccin, niet gespecificeerd
+  VAL069: COVID-19-vaccin, niet-replicerende chimpansee-adenovirale vector ChAdOx1
+    die codeert voor het SARS-CoV-2-spike-eiwit
+  VAL070: COVID-19-vaccin, niet-replicerende adenovirale vector die codeert voor het
+    SARS-CoV-2-spike-eiwit, niet gespecificeerd
+  VAL071: Geïnactiveerd volledig tyfusvaccin
+  VAL072: Meningokokken B-vaccin met fHbp uit subfamilies A en B
+  VAL073: COVID-19-vaccin, replicerende virale vector, met antigeenpresenterende cellen
+  VAL074: Quadrivalent geïnactiveerd griepvaccin, split- of subeenheid, hoge dosis
+  VAL075: Geïnactiveerd volledig vaccin tegen Leptospira icterohaemorrhagiae
+  VAL076: COVID-19-vaccin, gehele virion geïnactiveerd, niet gespecificeerd
+  VAL077: Levend bofvaccin
+  VAL078: Meningokokken Y-vaccin, polysacharideconjugaat
+  VAL079: Levend vaccin tegen rodehond
+  VAL086: COVID-19 vaccin, levend verzwakt, niet gespecificeerd
+  VAL088: Varicella-immunoglobuline
+  VAL087: Levend verzwakt tetravalent chimeer recombinant dengue-vaccin op basis van
+    gele koorts vaccin 17D
+  VAL089: Geïnactiveerd Japans encefalitisvaccin, niet gespecificeerd
+  VAL092: Gele koorts
+  VAL093: Geïnactiveerd volledig mazelenvaccin
+  VAL090: Hepatitis B-vaccin, recombinant hepatitis B-virusoppervlakte-antigeen (HBsAg),
+    dosis onbepaald
+  VAL091: Levend verzwakt tyfusvaccin, stam Ty21a, oraal
+  VAL095: COVID-19-vaccin, replicerende vector van het Newcastle disease-virus dat
+    codeert voor het SARS-CoV-2-spike-eiwit
+  VAL097: Difterietoxoïd, standaarddosis
+  VAL098: '4-componenten meningokokken B-vaccin '
+  VAL099: Geïnactiveerd pandemisch H1N1 2009-vaccin
+  VAL100: Levend verzwakt Japans encefalitisvaccin, 14-14-2-stam
+  VAL101: COVID-19 vaccin, niet-replicerende vector van het Newcastle disease-virus
+    dat codeert voor het SARS-CoV-2 spike-eiwit
+  VAL108: Levend niet-replicerend recombinant viraal vector vaccin Ad26.ZEBOV
+  VAL111: Acellulair antraxvaccin
+  VAL109: Anti-Ebola niet-replicerend viraal vectorvaccin, gemodificeerd Ankara-vaccin
+  VAL112: Quadrivalent geïnactiveerd influenza-vaccin op basis van cellencultuur,
+    gesplitst of subeenheden, normale dosis
+  VAL113: Humaan papillomavirus VLP bivalent vaccin, typen 16 en 18
+  VAL114: Hepatitis B-vaccin, recombinant hepatitis B-oppervlakte-antigeen (HBsAg),
+    10 microgram
+  VAL115: Hepatitis-B-vaccin, recombinant hepatitis-B-virusoppervlakte-antigeen (HBsAg),
+    20 microgram
+  VAL116: Monoklonaal antilichaam tegen RSV, palivizumab
+  VAL117: Acellulair pertussisvaccin, dosis onbepaald
+  VAL118: Meningokokken B-vaccin, niet gespecificeerd
+  VAL119: Meningokokkenmonovalent niet-geconjugeerd polysacharidevaccin
+  VAL120: Meningokokken niet-geconjugeerd polysacharide, polyvalent
+  VAL121: Oraal trivalent geïnactiveerd volledig poliovaccin
+  VAL123: Levend verzwakt pentavalent rotavirusvaccin
+  VAL124: Levend verzwakt choleravaccin, niet gespecificeerd
+  VAL125: Geheel virion geïnactiveerd hepatitis A-vaccin, niet gespecificeerd
+  VAL126: Ebola-vaccin, niet gespecificeerd
+  VAL128: Griepvaccin, niet gespecificeerd
+  VAL131: Geheel geïnactiveerd pestvaccin
+  VAL129: herpes simplex vaccin, niet gespecificeerd
+  VAL130: Virosoom hepatitis A-vaccin
+  VAL132: Rabiës immunoglobuline, menselijke oorsprong
+  VAL133: Levend verzwakt monovalent oraal poliovaccin, type onbepaald
+  VAL135: COVID-19-vaccin, mRNA dat codeert voor het SARS-CoV-2-spike-eiwit, in klinische
+    proeven
+  VAL139: Meningokokken Y-vaccin, ongeconjugeerd polysaccharide
+  VAL136: Meningokokken W-vaccin, polysacharideconjugaat
+  VAL140: Levend verzwakt griepvaccin, niet gespecificeerd
+  VAL141: 'RIX4414 monovalent rotavirusvaccin '
+  VAL142: Geheel virion geïnactiveerd hepatitis A-vaccin, pediatrische dosis, monovalent
+  VAL143: Geheel virion geïnactiveerd hepatitis A-vaccin, bivalent, pediatrische dosis
+  VAL144: Geheel virion geïnactiveerd hepatitis A-vaccin, monovalent, dosis volwassenen
+  VAL145: Geheel virion geïnactiveerd hepatitis A-vaccin, volwassenendosis, bivalent
+    (HepA en HepB)
+  VAL146: Geheel geïnactiveerd Brucella-vaccin
+  VAL147: P.I. (fenol-insoluble) proteïne antigeen vaccin tegen brucellose
+  VAL148: Respiratoir syncytieel virus monoklonaal antilichaam
+  VAL149: COVID-19 vaccin, mRNA coderend voor SARS-CoV-2 spike proteïne, omicron variant
+  VAL150: Dengue-vaccin, niet gespecificeerd
+  VAL151: Tularemievaccin, niet gespecificeerd
+  VAL152: Geheel virion geïnactiveerd griepvaccin, niet gespecificeerd
+  VAL153: Haemophilus influenzae type b vaccin, polysaccharide PRP geconjugeerd met
+    difterie toxoid
+  VAL155: Haemophilus influenzae type b vaccin, polysaccharide geconjugeerd met buitenmembraaneiwit
+    van Neisseria meningitidis serogroep B
+  VAL156: PRP-T Haemophilus influenzae type b vaccin, polysaccharide PRP geconjugeerd
+    met tetanustoxoïde
+  VAL157: COVID-19-vaccin, niet gespecificeerd
+  VAL158: Hepatitis B plasma vaccin
+  VAL159: Subunit gordelroosvaccin, niet gespecificeerd
+  VAL160: Gordelroosvaccin, niet gespecificeerd
+  VAL161: Meningokokken B multicomponent vaccin, niet gespecificeerd
+  VAL162: COVID-19-vaccin, replicerende virusvector, niet gespecificeerd
+  VAL163: COVID-19-vaccin, niet-replicerende virale vector, niet gespecificeerd
+  VAL164: COVID-19-vaccin, niet levend, niet gespecificeerd
+  VAL165: Levend vaccin tegen covidae 19, niet gespecificeerd
+  VAL166: COVID-19-vaccin, nucleïnezuur, niet gespecificeerd
+  VAL167: COVID-19-vaccin, niet-replicerende virale vector, met antigeenpresenterende
+    cellen
+  VAL168: COVID-19 vaccin, RNA, niet gespecificeerd
+  VAL169: Zelfversterkend mRNA-vaccin (AAA) voor vaccin 19
+  VAL178: SARS-CoV-2 spike proteïne mRNA 19 vaccin, door de WHO goedgekeurd voor gebruik
+    in noodgevallen (EUL), variant Omicron B.1.1.529, 25 microgram
+  VAL179: Meningokokkenconjugaatvaccin, monovalent
+  VAL170: Hepatitis-B-vaccin, recombinant hepatitis-B-virusoppervlakte-antigeen (HBsAg),
+    5 microgram
+  VAL171: vaccin tegen Venezolaanse paardenencefalitis, niet gespecificeerd
+  VAL172: Q-koortsvaccin (Coxiella burnetii), niet gespecificeerd
+  VAL175: Leishmaniasisvaccin, niet gespecificeerd
+  VAL176: Humaan vaccin tegen parainfluenzavirussen, niet gespecificeerd
+  VAL177: Haemophilus influenzae type b vaccin, niet gespecificeerd
+  VAL180: COVID-19-vaccin, mRNA coderend voor SARS-CoV-2 spike-eiwit, 100 microgram
+  VAL181: SARS-CoV-2 spike-eiwitcoderend mRNA 19 vaccin, oorspronkelijk SARS-CoV2,
+    25 microgram
+  VAL182: Mazelenvaccin, niet gespecificeerd
+  VAL184: Pneumokokken polysaccharidenconjugaatvaccin, monovalent
+  VAL183: Bofvaccin, niet gespecificeerd
+  VAL185: Pneumokokkenpolysacharidevaccin, niet-geconjugeerd, niet gespecificeerd
+  VAL186: Pneumokokken polysaccharidenconjugaatvaccin, serotype 1
+  VAL187: Pneumokokken polysaccharidenconjugaatvaccin, serotype 3
+  VAL188: Pneumokokken polysaccharidenconjugaatvaccin, serotype 4
+  VAL189: Pneumokokken polysaccharidenconjugaatvaccin, serotype 5
+  VAL190: Pneumokokken polysaccharidenconjugaatvaccin, serotype 6A
+  VAL191: Pneumokokken polysaccharidenconjugaatvaccin, serotype 6B
+  VAL192: Pneumokokken polysaccharidenconjugaatvaccin, serotype 7F
+  VAL193: Pneumokokken polysaccharidenconjugaatvaccin, serotype 8
+  VAL196: Pneumokokken polysaccharidenconjugaatvaccin, serotype 11A
+  VAL194: Pneumokokken polysaccharidenconjugaatvaccin, serotype 9V
+  VAL195: Pneumokokken polysaccharidenconjugaatvaccin, serotype 10A
+  VAL197: Pneumokokkenpolysacharidenconjugaatvaccin, serotype 12F
+  VAL198: Pneumokokken polysaccharidenconjugaatvaccin, serotype 14
+  VAL199: Pneumokokken polysaccharidenconjugaatvaccin, serotype 15B
+  VAL200: Pneumokokken polysaccharidenconjugaatvaccin, serotype 18C
+  VAL201: Pneumokokken polysaccharidenconjugaatvaccin, serotype 19A
+  VAL202: Pneumokokken polysaccharidenconjugaatvaccin, serotype 19F
+  VAL203: Pneumokokken polysaccharidenconjugaatvaccin, serotype 22F
+  VAL204: Pneumokokken polysaccharidenconjugaatvaccin, serotype 23F
+  VAL205: Pneumokokkenpolysacharidenconjugaatvaccin, serotype 33F
+  VAL206: Pneumokokkenpolysacharidevaccin, niet-geconjugeerd, serotype 1
+  VAL207: Pneumokokkenpolysacharidevaccin, niet-geconjugeerd, serotype 2
+  VAL208: Pneumokokkenpolysacharidevaccin, niet-geconjugeerd, serotype 3
+  VAL209: Pneumokokkenpolysacharidevaccin niet-geconjugeerd, serotype 4
+  VAL210: Pneumokokkenpolysaccharidenvaccin (niet-geconjugeerd), serotype 5
+  VAL212: Pneumokokkenpolysaccharidenvaccin (niet-geconjugeerd), serotype 7F
+  VAL211: Pneumokokken polysaccharidenvaccin (niet-geconjugeerd), serotype 6B
+  VAL213: Pneumokokkenpolysacharidevaccin, niet-geconjugeerd, serotype 8
+  VAL214: Pneumokokkenpolysacharidevaccin (niet-geconjugeerd), serotype 9N
+  VAL215: Pneumokokkenpolysacharidevaccin (niet-geconjugeerd), serotype 9V
+  VAL216: Pneumokokkenpolysacharidevaccin, niet-geconjugeerd, serotype 10A
+  VAL217: Pneumokokkenpolysaccharidenvaccin (niet-geconjugeerd), serotype 11A
+  VAL219: Pneumokokkenpolysacharidevaccin, niet gejugeerd, serotype 14
+  VAL220: Pneumokokkenpolysaccharidenvaccin (niet-geconjugeerd), serotype 15B
+  VAL221: Pneumokokkenpolysaccharidenvaccin (niet-geconjugeerd), serotype 15F
+  VAL222: Pneumokokkenpolysaccharidenvaccin (niet-geconjugeerd), serotype 17F
+  VAL223: Pneumokokkenpolysacharidevaccin niet-geconjugeerd, serotype 18C
+  VAL224: Pneumokokkenpolysaccharidenvaccin (niet-geconjugeerd), serotype 19A
+  VAL225: Pneumokokkenpolysacharidenvaccin (niet-geconjugeerd), serotype 19F
+  VAL226: Pneumokokkenpolysaccharidenvaccin, niet gejugeerd, serotype 20
+  VAL227: Pneumokokkenpolysaccharidenvaccin, niet gejugeerd, serotype 22F
+  VAL228: Pneumokokkenpolysacharidenvaccin (niet-geconjugeerd), serotype 23F
+  VAL229: Pneumokokkenpolysacharidevaccin (niet-geconjugeerd), serotype 33F
+  VAL232: Pneumokokkenpolysacharidevaccin, niet gejugeerd, serotype 6A
+  VAL233: Pneumokokken polysaccharide niet-geconjugeerd vaccin, serotype 25
+  VAL234: Meningokokkenvaccin, niet gespecificeerd
+  VAL235: Meningokokkenvaccin geconjugeerd polysaccharidenvaccin, polyvalent
+  VAL236: Humaan papillomavirus VLP-vaccin, monovalent
+  VAL237: Humaan papillomavirus VLP-vaccin, polyvalent
+  VAL238: Humaan papillomavirus VLP-vaccin, type 6
+  VAL239: Humaan Papillomavirus VLP-vaccin, type 11
+  VAL240: Humaan papillomavirus VLP-vaccin, type 16
+  VAL241: Humaan Papillomavirus VLP-vaccin, type 18
+  VAL242: Humaan Papillomavirus VLP-vaccin, type 31
+  VAL245: Humaan Papillomavirus VLP-vaccin, type 52
+  VAL246: Humaan Papillomavirus VLP-vaccin, type 45
+  VAL243: Humaan Papillomavirus VLP-vaccin, type 33
+  VAL244: Humaan Papillomavirus VLP-vaccin, type 58
+  VAL247: Levend verzwakt, recombinant (chimeer) Japans encefalitisvaccin
+  VAL248: Levend verzwakt Japans encefalitisvaccin, niet gespecificeerd
+  VAL249: Japans encefalitisvaccin, niet gespecificeerd
+  VAL250: Japans encefalitisvaccin, geïnactiveerd van muizenhersenen afgeleid
+  VAL251: Japans encefalitisvaccin, geïnactiveerd Vero-cel-afgeleid
+  VAL252: Rabiës immunoglobuline, menselijke oorsprong
+  VAL253: Rabiës immunoglobuline, van paarden afkomst
+  VAL254: Geheel virion geïnactiveerd rabiësvaccin, Semple-type, bereid uit met rabiësvirus
+    besmet geiten- of schapenhersenweefsel, bevat myeline
+  VAL255: Geheel virion geïnactiveerd vaccin tegen rabiës, type Fuenzalida, bereid
+    uit hersenweefsel van zogende muizen die besmet zijn met het rabiësvirus, bevat
+    minder myeline
+  VAL256: Geheel virion geïnactiveerd rabiësvaccin, bereid uit dierlijk hersenweefsel
+    geïnfecteerd met rabiësvirus, niet gespecificeerd
+  VAL257: Geheel virion geïnactiveerd rabiësvaccin op basis van celcultuur, niet gespecificeerd
+  VAL258: Geheel virion geïnactiveerd vaccin tegen rabiës, op basis van celcultuur,
+    humaan diploïd celvaccin (HDCV) MRC-5, inactivering met ß-propiolacton
+  VAL259: Geheel virionaal geïnactiveerd rabiësvaccin, gezuiverd vaccin op basis van
+    kuikenembryocellen (PCECV), verkregen door het kweken van de gefixeerde rabiësvirusstam
+    Flury LEP-25 in primaire culturen van kuikenfibroblasten, virus geïnactiveerd
+    met ß-propiolacton
+  VAL261: Geheel virion geïnactiveerd rabiësvaccin op basis van celcultuur, primair
+    hamsterniercelvaccin (PHKCV), Beijing-stam, inactivatie met formaline
+  VAL262: Geheel virion geïnactiveerd rabiësvaccin, vaccin op basis van geëmbryoneerde
+    eieren (EEV), niet gespecificeerd
+  VAL263: Geheel virion geïnactiveerd rabiësvaccin, gezuiverd eendenembryovaccin (PDEV),
+    inactivering met ß-propiolacton
+  VAL264: COVID-19-vaccin, gehele virion geïnactiveerd
+  VAL265: COVID-19-vaccin, gehele virion geïnactiveerd, in klinische trials
+  VAL266: Meningokokken C-vaccin, tetanustoxoïd-conjugaat
+  VAL267: Meningokokken C-vaccin, polysacharide geconjugeerd met difterietoxoïde
+  VAL268: Meningokokken-C-vaccin, polysacharide geconjugeerd met CRM197
+  VAL269: Meningokokken A-vaccin, polysacharide geconjugeerd met CRM197
+  VAL270: Meningokokken A vaccin, polysaccharide geconjugeerd met difterietoxoïde
+  VAL271: Meningokokken A vaccin, polysaccharide geconjugeerd met tetanustoxoïde
+  VAL272: Meningokokken W-vaccin, tetanustoxoïd-conjugaat
+  VAL273: Meningokokken W-vaccin, polysacharide geconjugeerd met difterietoxoïde
+  VAL274: Meningokokken W-vaccin, polysacharide geconjugeerd met CRM197
+  VAL275: Meningokokken Y-vaccin, polysacharide geconjugeerd met CRM197
+  VAL276: Meningokokken Y-vaccin, tetanustoxoïd-conjugaat
+  VAL277: Meningokokken Y-vaccin, polysacharide geconjugeerd met difterietoxoïde
+  VAL280: Botulisme toxoïde
+  VAL281: Vaccin tegen adenovirus type 7, niet gespecificeerd
+  VAL282: Vaccin tegen adenovirus type 4, niet gespecificeerd
+  VAL283: Hepatitis A-vaccin, pediatrische dosering, niet gespecificeerd
+  VAL285: Trivalent geïnactiveerd celcultuurgriepvaccin, split- of subeenhedenvaccin,
+    standaarddosis
+  VAL286: Levend verzwakt hepatitis A-vaccin, niet gespecificeerd
+  VAL287: Quadrivalent recombinant griepvaccin
+  VAL284: Geheel geïnactiveerd hepatitis A-vaccin, dosis volwassenen, niet gespecificeerd
+  VAL288: Hepatitis A-vaccin, niet gespecificeerd
+  VAL289: Anti-COVID-19-vaccin, mRNA coderend voor SARS-CoV-2 spike-eiwit, 10 microgram
+  VAL290: COVID-19-vaccin, mRNA coderend voor SARS-CoV-2 spike-eiwit, 30 microgram
+  VAL291: Recombinant hepatitis B-vaccin, drie antigenen (HbS, pre-S1 en pre-S2)
+  VAL292: COVID-19-vaccin, niet-replicerende adenovirus 26-vector die codeert voor
+    het SARS-CoV-2-spike-eiwit, klinische proeven
+  VAL293: Antrax immunoglobuline
+  VAL294: Levend vacciniavirus, vaccin van de eerste generatie
+  VAL296: Gemodificeerd vaccinia Ankara, niet-replicerend, derdegeneratievaccin
+  VAL297: Meningokokken A-vaccin, niet gespecificeerd
+  VAL298: Meningokokken C-vaccin, niet gespecificeerd
+  VAL299: Meningokokken Y-vaccin, niet gespecificeerd
+  VAL300: Meningokokken W-vaccin, niet gespecificeerd
+  VAL301: Recombinant trivalent griepvaccin
+  VAL302: SARS-CoV-2 spike proteïne mRNA 19 vaccin, oorspronkelijk virus, 50 microgram
+  VAL303: COVID-19 vaccin, mRNA coderend voor SARS-CoV-2 spike proteïne, Origineel
+    virus
+  VAL304: SARS-CoV-2 spike protein mRNA 19 vaccin, origineel virus, 15 microgram
+  VAL305: SARS-CoV-2 piek proteïne-mRNA 19 vaccin, Omicron BA.1 variant, 15 microgram
+  VAL306: COVID-19-vaccin, mRNA dat codeert voor het SARS-CoV-2-spike-eiwit, oorspronkelijk
+    virus, 3 microgram
+  VAL307: SARS-CoV-2 piek proteïne-mRNA 19 vaccin, Omicron BA.4/BA.5 variant, 15 microgram
+  VAL308: SARS-CoV-2 spike protein mRNA 19 vaccin, Omicron BA.4/BA.5 variant, 25 microgram
+  VAL309: SARS-CoV-2 piek proteïne-mRNA 19 vaccin, Omicron BA.4/BA.5 variant, 5 microgram
+  VAL310: COVID-19-vaccin, mRNA dat codeert voor het SARS-CoV-2-spike-eiwit, origineel
+    virus, 5 microgram
+  VAL318: RSV-vaccin, niet gespecificeerd
+  VAL319: COVID-19 vaccin, niet-replicerende adenovirale vector die codeert voor het
+    SARS-CoV-2 spike-eiwit, inhalatievaccin, niet gespecificeerd
+  VAL326: SARS-CoV-2 spike proteïne mRNA 19 vaccin, Omicron BA.4/BA.5 variant, 1,5
+    microgram
+  VAL327: SARS-CoV-2 piek eiwitcoderend mRNA 19 vaccin, origineel virus, 1,5 microgram
+  VAL329: Vaccin SARS-CoV-2 spike protein mRNA 19, variante Omicron XBB.1.5-50 microgrammes
+  VAL331: CMV immune globulin
+  VAL338: RSV-antilichaam of vaccin, niet gespecificeerd
