@@ -1,1 +1,637 @@
-{}
+vaccine:
+  VAC0623: Measles-mumps vaccine, unspecified
+  VAC0643: Meningococcal ACWY conjugate vaccine, unspecified
+  VAC0648: COVID-19 vaccine, unspecified
+  VAC0653: Hepatitis A + Hepatitis B vaccine Child, unspecified
+  VAC0796: Pertussis vaccine, unspecified
+  VAC0797: Diph-T-aP/ap, unspecified
+  VAC0911: Vacina totalmente inativada contra hepatite A, monovalente, dose pediátrica,
+    não especificada
+  VAC0912: Vacina contra hepatite A, dose pediátrica, não especificada
+  VAC0914: Vacina contra hepatite B, monovalente, dose pediátrica, não especificada
+  VAC0917: Vacina contra hepatite E, não especificada
+  VAC0918: Vacina PRP-D Hib, não especificada
+  VAC0919: Vacina Hib hbOC, não especificada
+  VAC0920: Vacina difteria-tétano Td, não especificada
+  VAC0921: Vacina contra encefalite japonesa, não especificada
+  VAC0922: Vacina de adenovírus vivo atenuado, tipo 4 e tipo 7, oral
+  VAC0084: H5N1 pre-pandemic influenza vaccine, unspecified
+  VAC0088: DTIPV vaccine, unspecified
+  VAC0101: Hepatitis B vaccine, unspecified
+  VAC0102: Hepatitis A vaccine, unspecified
+  VAC0110: Influenza vaccine, unspecified
+  VAC0111: Yellow fever vaccine, unspecified
+  VAC0112: Typhoid vaccine, unspecified
+  VAC0113: Rubella vaccine, unspecified
+  VAC0114: Monovalent measles vaccine, unspecified
+  VAC0130: MMR vaccine, unspecified
+  VAC0131: Rabies vaccine, unspecified
+  VAC0132: Tetanus vaccine, unspecified
+  VAC0133: Smallpox vaccine, unspecified
+  VAC0134: BCG vaccine, unspecified
+  VAC0135: Polio vaccine, unspecified
+  VAC0136: DTwP - Diphtheria-Tetanus-Pertussis, unspecified
+  VAC0137: DT vaccine, unspecified
+  VAC0138: Diphtheria-Tetanus-Pertussis-Polio vaccine, unspecified
+  VAC0143: Haemophilus influenzae B (or Hib) vaccine, unspecified
+  VAC0144: Cholera vaccine, unspecified
+  VAC0145: Tick-borne encephalitis vaccine, unspecified
+  VAC0146: Live attenuated Japanese Encephalitis vaccine 14-14-2 strain, unspecified
+  VAC0147: Influenza A(H1N1)2009 vaccine, unspecified
+  VAC0148: Leptospirosis vaccine, unspecified
+  VAC0149: Meningococcal B:14:P1.7,16 vaccine, unspecified
+  VAC0150: Meningococcal conjugate vaccine C, unspecified
+  VAC0151: Meningococcal A + C vaccine, unspecified
+  VAC0152: Unconjugated meningococcal vaccine ACWY, unspecified
+  VAC0153: Mumps vaccine, unspecified
+  VAC0154: Malaria vaccine, unspecified
+  VAC0155: Dengue vaccine, unspecified
+  VAC0156: HPV Vaccine
+  VAC0157: Pneumococcal vaccine, unspecified
+  VAC0158: Rotavirus vaccine, unspecified
+  VAC0159: Chickenpox vaccine, unspecified
+  VAC0160: Live attenuated shingles vaccine, unspecified
+  VAC0162: Brucellosis vaccine, unspecified
+  VAC0163: Whole-cell inactivated pertussis vaccine, unspecified
+  VAC0270: Inactivated Polio vaccine, unspecified
+  VAC0320: OPV 1-2-3, unspecified
+  VAC0324: Pneumococcal conjugate vaccine, 7 valent, unspecified
+  VAC0339: Pneumococcal polysaccharide vaccine 23-valent, unspecified
+  VAC0344: PRP-OMP Hib vaccine, unspecified
+  VAC0345: Hib PRP-T conjugated vaccine, unspecified
+  VAC0358: Rabies immunoglobulin human origin, unspecified
+  VAC0380: T.Polio, unspecified
+  VAC0382: Tetanus diphtheria vaccine, unspecified
+  VAC0424: Live attenuated oral typhoid vaccine, unspecified
+  VAC0497: Tetanus immunoglobulin, unspecified
+  VAC0502: Rabies immunoglobulin, unspecified
+  VAC0503: Rabies immunoglobulin equine origin, unspecified
+  VAC0506: Pentavalent DTaPHibIPV vaccine, unspecified
+  VAC0512: Typhus vaccine, unspecified
+  VAC0549: dTIPV - Diphtheria-Tetanus-Polio, low dose, unspecified
+  VAC0550: Measles-Rubella vaccine, unspecified
+  VAC0551: DTaPIPV vaccine, standard dose, unspecified
+  VAC0552: DTaPHibHepBIPV hexavalent vaccine, unspecified
+  VAC0553: Pentavalent DTwPHibIPV vaccine, unspecified
+  VAC0585: TdapIPV - Diphtheria-Tetanus-Pertussis-Polio vaccine, low dose, unspecified
+  VAC0596: DTaPHibHepB pentavalent vaccine, unspecified
+  VAC0598: DTwPHibHepB pentavalent vaccine, unspecified
+  VAC0599: DTPerHibHepB pentavalent vaccine, unspecified
+  VAC0600: OPV bivalent 1-3, unspecified
+  VAC0601: DPT Diphtheria-Pertussis-Tetanus vaccine, unspecified
+  VAC0602: DTaP - Diphtheria-Tetanus-Pertussis vaccine, standard dose, unspecified
+  VAC0610: Tdap - Diphtheria-Tetanus-Pertussis vaccine, low dose, unspecified
+  VAC0654: Hepatitis A + Hepatitis B vaccine Adult, unspecified
+  VAC0655: Diphtheria vaccine, unspecified
+  VAC0711: Typhoid conjugate vaccine, unspecified
+  VAC0712: Typhoid-hepatitis A vaccine, unspecified
+  VAC0713: Typhoid polysaccharide vaccine, unspecified
+  VAC0775: DTwPHib, unspecified
+  VAC0787: Diphtheria-Tetanus-Rubella, unspecified
+  VAC0788: Hib-IPV, unspecified
+  VAC0790: Diphtheria-Tetanus-Hepatitis B vaccine, unspecified
+  VAC0791: Hexavalent Diphtheria-Tetanus-Pertussis-Polio-Hepatitis B-Hib vaccine,
+    unspecified
+  VAC0792: Diphtheria-Tetanus-Pertussis-Polio-Hepatitis B pentavalent vaccine, unspecified
+  VAC0794: T-igT, unspecified
+  VAC0795: Acellular pertussis vaccine, unspecified
+  VAC0798: Hib-MeningoC vaccine, unspecified
+  VAC0799: DT-Hib vaccine, unspecified
+  VAC0800: Diphtheria-tetanus-pertussis-Hib vaccine, unspecified
+  VAC0801: HepB-Hib, unspecified
+  VAC0802: Monovalent oral polio vaccine - type unknown, unspecified
+  VAC0804: Anthrax vaccine, unspecified
+  VAC0805: Whole-cell inactivated cholera vaccine, unspecified
+  VAC0806: Live attenuated cholera vaccine, unspecified
+  VAC0807: Cholera-Typhoid inactivated vaccine, unspecified
+  VAC0808: Hib-MenCY, unspecified
+  VAC0809: Meningococcal monovalent polysaccharide vaccine, unspecified
+  VAC0810: Meningococcal polyvalent polysaccharide vaccine, unspecified
+  VAC0811: Meningococcal B vaccine, unspecified
+  VAC0812: Inactivated whole plague vaccine, unspecified
+  VAC0813: Pneumococcal unconjugated polysaccharide vaccine, unspecified
+  VAC0814: Pneumococcal conjugate vaccine, serotypes unspecified
+  VAC0815: Pneumo-Hib, unspecified
+  VAC0817: Inactivated Typhoid vaccine, unspecified
+  VAC0818: Typhoid-Paratyphoid vaccine, unspecified
+  VAC0819: Inactivated Japanese Encephalitis vaccine, unspecified
+  VAC0820: Inactivated whole influenza vaccine, unspecified
+  VAC0821: Inactivated influenza vaccine, split or subunit, unspecified
+  VAC0822: Influenza vaccine, live attenuated, unspecified
+  VAC0823: VLP influenza vaccine, unspecified
+  VAC0824: Hepatitis A virosome vaccine, unspecified
+  VAC0825: Combined hepatitis A and hepatitis B vaccine, unspecified
+  VAC0827: MMRV - Measles-Mumps-Rubella-Varicella vaccine, unspecified
+  VAC0828: Rotavirus pentavalent vaccine, unspecified
+  VAC0829: Rubella-Mumps vaccine, unspecified
+  VAC0830: Subunit shingles vaccine, unspecified
+  VAC0831: Ebola vaccine, unspecified
+  VAC0832: Herpes Simplex vaccine, unspecified
+  VAC0839: Inactivated whole-cell brucella vaccine, unspecified
+  VAC0849: Vacina contra tularemia, não especificada
+  VAC0852: Vacina monovalente oral contra poliomielite mOPV2 Sabin tipo 2, não especificada
+  VAC0853: Vacina monovalente oral contra poliomielite mOPV1 Sabin tipo 1, não especificada
+  VAC0854: Vacina monovalente oral contra poliomielite mOPV3 Sabin tipo 3, não especificada
+  VAC0855: Vacina contra difteria, tétano e poliomielite, não especificada
+  VAC0856: Vacina DTaPHib, não especificada
+  VAC0857: Vacina contra difteria-tétano-coqueluche-hepatite B, não especificada
+  VAC0858: Vacina contra HPV bivalente, não especificada
+  VAC0859: Vacina contra HPV quadrivalente, não especificada
+  VAC0860: Vacina contra HPV nonavalente, não especificada
+  VAC0861: Vacina meningocócica B multicomponente, não especificada
+  VAC0862: Imunoglobulina contra o sarampo, não especificada
+  VAC0863: Imunoglobulina contra hepatite B, não especificada
+  VAC0864: Imunoglobulina varicela-zoster, não especificada
+  VAC0865: Vacina polissacarídica meningocócica A, não especificada
+  VAC0866: Vacina meningocócica conjugada A, não especificada
+  VAC0867: Antitoxina diftérica, não especificada
+  VAC0880: Vacina pentavalente contra difteria-tétano-coqueluche-Hib-poliomielite
+    (DTPerHibIPV), não especificada
+  VAC0881: Vacina viva atenuada contra encefalite japonesa, não especificada
+  VAC0894: Adenovirus vaccine, unspecified
+  VAC0895: Vacina venezuelana contra encefalite equina, não especificada
+  VAC0896: Vacina contra febre Q, não especificada
+  VAC0897: Vacina contra hantavírus, não especificada
+  VAC0898: Vacina contra leishmaniose, não especificada
+  VAC0899: Vacina contra o vírus da parainfluenza humana, não especificada
+  VAC0902: Vacina anti-rábica tipo Semple, não especificada
+  VAC0903: Vacina anti-rábica tipo Fuenzalida, não especificada
+  VAC0904: Vacina contra raiva em embrião de pato, não especificada
+  VAC0905: Vacina anti-rábica PHKCV, não especificada
+  VAC0906: Vacina contra herpes zoster, não especificada
+  VAC0907: Vacina contra adenovírus tipo 4, não especificada
+  VAC0908: Vacina contra adenovírus tipo 7, não especificada
+  VAC0909: Antitoxina botulínica
+  VAC0910: Vacina inativada contra hepatite A, dose para adultos, não especificada
+  VAC0915: Vacina contra hepatite B, monovalente, dosagem para adultos, não especificada
+  VAC0916: Vacina contra hepatite B, monovalente, dosagem para pacientes em diálise,
+    não especificada
+  VAC0923: Anticorpo monoclonal do vírus sincicial respiratório, não especificado
+  VAC0925: Vacina trivalente inativada contra influenza, não especificada
+  VAC0927: Vacina de mRNA contra a COVID-19, dose pediátrica, não especificada
+  VAC0928: Vacina viva atenuada contra hepatite A, não especificada
+  VAC0929: Vacina influenza quadrivalente inativada, dose pediátrica, não especificada
+  VAC0932: Vacina quadrivalente recombinante contra influenza, não especificada
+  VAC0937: Vacina contra botulismo, não especificada
+  VAC0938: Vacina quadrivalente contra influenza, não especificada
+  VAC0941: Imunoglobulina contra antraz, não especificada
+  VAC0942: Vacina anti-rábica de embrião de galinha, não especificada
+  VAC0943: Células diplóides da vacina contra a raiva, não especificadas
+  VAC0944: Vacina oral contra cólera com virion inteiro inativado, não especificada
+  VAC0945: Sorogrupo da vacina meningocócica desconhecido, não especificado
+  VAC0997: Vacina pneumocócica conjugada 13-valente, não especificada
+  VAC1037: Vacina contra encefalite transmitida por carrapatos, cepa Neudörfl, dose
+    pediátrica, não especificada
+  VAC1038: Vacina contra encefalite transmitida por carrapatos, cepa Neudörfl, dose
+    para adultos, não especificada
+  VAC1039: Vacina de mRNA contra COVID-19, vírus original, 50 µg, não especificado
+  VAC1041: Vacina de RNA COVID-19, não especificada
+  VAC1042: Vacina contra a COVID-19, vetor viral não replicante, não especificado
+  VAC1043: Vacina contra COVID-19, subunidade proteica, não especificada
+  VAC1044: Vacina contra a COVID-19, virião inteiro inativado, não especificado
+  VAC1062: Imunoglobulina CMV
+  VAC1063: Vacina contra hepatite C, não especificada
+  VAC1064: Vacina contra HIV, não especificada
+  VAC1065: Leprosy vaccine
+  VAC1066: Vacina contra melanoma, não especificada
+  VAC1067: Vacina contra Streptococcus pyogenes, não especificada
+  VAC1068: Vacina contra a febre do Vale do Rift, não especificada
+  VAC1069: Vaccinia immune globulin
+  VAC1071: Anticorpo ou vacina contra RSV, não especificado
+  VAC1072: Vacina de mRNA contra COVID-19, vírus original, 25 µg, não especificado
+  VAC1073: Vacina contra a doença de Lyme, não especificada
+  VAC1075: Vacina acelular contra antraz, não especificada
+valence:
+  VAL067: Tetanus toxoid
+  VAL072: Vacina meningocócica B contendo fHbp das subfamílias A e B
+  VAL077: Vacina B meningocócica de 4 componentes
+  VAL113: Vacina bivalente de papilomavírus humano VLP, tipos 16 e 18
+  VAL180: Vacina COVID-19, codificação do mRNA para a proteína spike SARS-CoV-2, 100
+    microgramas
+  VAL181: Vacina COVID-19, codificação do mRNA para a proteína spike SARS-CoV-2, vírus
+    original SARS-CoV-2, 25 microgramas
+  VAL251: Vacina contra encefalite japonesa, inactivada, derivada de células Vero
+  VAL252: Imunoglobulina da raiva, de origem humana
+  VAL253: Imunoglobulina da raiva, origem equina
+  VAL254: Vacina anti-rábica inactivada de virião inteiro, tipo Semple, preparada
+    a partir de tecido cerebral de cabra ou ovelha infectado com o vírus da raiva,
+    contém mielina
+  VAL262: Vacina contra a raiva totalmente inactivada por viriões, vacina baseada
+    em ovos embrionados (EEV), não especificada
+  VAL264: Vacina COVID-19, virião inteiro inactivado
+  VAL284: Vacina completa contra a hepatite A inactivada, dose para adultos, não especificada
+  VAL308: SRA-CoV-2, vacina mRNA 19, variante Omicron BA.4/BA.5, 25 microgramas
+  VAL318: Vacina contra o VSR, não especificada
+  VAL001: Trivalente vacina viva atenuada contra a gripe, dose normal
+  VAL002: Vacina conjugada com tifóide, antigénio vi polissacarídeo ligado a uma proteína
+    transportadora
+  VAL003: Vacina contra a erupção cutânea, não especificada
+  VAL004: Inactivação da vacina contra a cólera inteira para injecção
+  VAL005: Vacina viva atenuada contra o sarampo
+  VAL006: Vacina Brucella, não especificada
+  VAL007: Vírus da estomatite vesicular recombinante (rVSV) - EBOV GP glicoproteína
+  VAL008: Vacina de tosse convulsa acelular, dose padrão
+  VAL009: Sporozoite vacinas de proteínas de superfície
+  VAL010: Vacina contra a coqueluche inactivada total
+  VAL011: Vacina COVID-19, subunidade de proteína, proteína recombinante do espigão
+    (RBD)
+  VAL012: Vacina contra a hepatite B, antigénio de superfície recombinante do vírus
+    da hepatite B (HBsAg), 40 microgramas (dosagem do doente por diálise)
+  VAL013: Varicella zoster virus (VZV) glicoproteína de superfície E (gE)
+  VAL014: Vacina contra a febre tifóide, não especificada
+  VAL016: Imunoglobulina da raiva, não especificada
+  VAL017: Vacina de tosse convulsa acelular, dose baixa
+  VAL018: Vacina contra a varíola de terceira geração, replicando minimamente o vírus
+    da vacina viva
+  VAL019: Difteria antitoxina
+  VAL020: Vacina contra herpes zóster atenuado ao vivo
+  VAL021: Vacina oral inactivada contra a cólera inteira
+  VAL022: Vacina viva atenuada contra a varíola, não especificada
+  VAL025: Vacina contra a malária, não especificada
+  VAL026: Vacina meningocócica B:14:P1.7,16 com proteínas da membrana externa da vesícula
+  VAL027: Vacina COVID-19, adenovírus 26 vector não replicador que codifica a proteína
+    do espigão da SRA-CoV-2
+  VAL028: Vírus de vacina de Ancara modificado, não replicável, vacina de terceira
+    geração, não especificada
+  VAL029: Vacina contra a gripe sazonal VLP, não especificada
+  VAL030: Vacina anti-Borrelia burgdorferi recombinante - proteína de superfície externa
+    A (OspA)
+  VAL031: Encefalite transmitida por carraças
+  VAL032: Vacina contra o polissacarídeo tifóide, antigénio vi polissacarídeo não
+    conjugado
+  VAL033: Vacina oral atenuada monovalente viva contra a poliomielite tipo 2
+  VAL034: Difteria toxoídica, dose baixa
+  VAL035: Vacina COVID-19, DNA plasmídeo que codifica a proteína do espigão SRA-CoV-2
+  VAL036: Vacina VLP não-valente contra o papilomavírus humano, tipos 6, 11, 16, 18,
+    31, 33, 45, 52, 58
+  VAL037: Vacina meningocócica A, polissacarídeo não conjugado
+  VAL038: Vacina COVID-19, replicando o vector do vírus do sarampo que codifica a
+    proteína do espigão SRA-CoV-2
+  VAL039: Vacina COVID-19, VLP, proteína de espiga recombinante
+  VAL041: Meningocócica A, vacina conjugada de polissacarídeos
+  VAL042: Vacina contra a poliomielite, não especificada
+  VAL043: SRA-CoV-2 vacina contra o pico da proteína mRNA 19
+  VAL044: Varicella
+  VAL045: Vacina paratifóide total inactivada
+  VAL046: Typhus
+  VAL047: Hepatite B imunoglobulina
+  VAL048: Inactivada a vacina da papeira inteira
+  VAL049: Vacina de polissacarídeo Hib não conjugado
+  VAL050: Vacina COVID-19, não replicadora do adenovírus 5 que codifica a proteína
+    do pico da SRA-CoV-2, não especificada
+  VAL051: Vacina pré-pandémica contra a gripe A(H5N1)
+  VAL052: Vacina quadrivalente VLP do papilomavírus humano, tipos 6, 11, 16 e 18
+  VAL053: Vacina COVID-19, subunidade de proteína, proteína de pico recombinante,
+    não especificada
+  VAL054: Vacina COVID-19, Vaccinia Virus Ankara modificado não replicável codificando
+    a proteína spike SARS-CoV-2
+  VAL055: Imunoglobulina do sarampo
+  VAL056: Vacina trivalente inactivada completa contra a poliomielite para injecção
+  VAL057: Vacina meningocócica C, conjugado de polissacarídeo
+  VAL058: Vacina inactivada contra a gripe dividida ou subunidade, não especificada
+  VAL059: Vacina de influenza atenuada ao vivo, dose padrão
+  VAL060: Vacina viva atenuada contra chikungunya
+  VAL061: Vacina COVID-19, subunidade de proteína, proteína de pico recombinante,
+    S-2P e CpG1018
+  VAL063: Botulinum antitoxina
+  VAL065: Vacina contra a dengue quimérica tetravalente atenuada e recombinante ao
+    vivo
+  VAL066: Vacina anti-vírus replicadora 19 anti-covido, vírus influenza que codifica
+    a proteína de pico da SRA-CoV-2
+  VAL068: Vacina contra a Hepatite B, não especificada
+  VAL069: Vacina COVID-19, vector adenoviral chimpanzé não replicante ChAdOx1 que
+    codifica a proteína do espigão SRA-CoV-2
+  VAL070: Vacina COVID-19, vector adenoviral não replicante que codifica a proteína
+    do pico da SRA-CoV-2, não especificada
+  VAL071: Vacina contra a febre tifóide total inactivada
+  VAL073: Vacina COVID-19, replicando o vector viral, com células que apresentam antigénio
+  VAL074: Vacina quadrivalente contra a gripe inactivada, fenda ou subunidade, dose
+    alta
+  VAL075: Inactivação da vacina completa contra Leptospira icterohaemorrhagiae
+  VAL076: Vacina COVID-19, virião inteiro inactivado, não especificada
+  VAL078: Vacina meningocócica Y, conjugado de polissacarídeo
+  VAL079: Vacina contra a rubéola viva
+  VAL080: Vacina anti-rábica totalmente inactivada, não especificada
+  VAL081: Vacina contra a cólera não especificada
+  VAL082: Vacina contra o HPV, tipos não especificados
+  VAL083: Difteria toxoídica, dose não especificada
+  VAL084: Vacina COVID-19, replicando o vector do vírus da estomatite vesicular que
+    codifica a proteína do espigão SRA-CoV-2
+  VAL085: Vacina oral atenuada monovalente viva contra a poliomielite tipo 3
+  VAL086: Vacina COVID-19, viva atenuada, indeterminada
+  VAL087: Vacina contra o dengue tetravalente quimérico recombinante ao vivo baseada
+    na vacina contra a febre amarela 17D
+  VAL088: Varicella imunoglobulina
+  VAL089: Vacina inativada contra a encefalite japonesa, não especificada
+  VAL090: Vacina contra a hepatite B, antigénio de superfície recombinante do vírus
+    da hepatite B (HBsAg), dose não especificada
+  VAL091: Vacina viva atenuada contra a febre tifóide, estirpe Ty21a, oral
+  VAL092: Febre amarela
+  VAL093: Vacina inactivada contra o sarampo inteiro
+  VAL095: Vacina COVID-19, replicando o vector do vírus da doença de Newcastle que
+    codifica a proteína do espigão SRA-CoV-2
+  VAL096: Vacina BCG
+  VAL097: Difteria toxoídica, dose padrão
+  VAL098: 'Vacina contra a poliomielite, não especificada '
+  VAL099: Vacina contra a Pandemia Inactiva do H1N1 2009
+  VAL100: Vacina viva atenuada contra a encefalite japonesa, estirpe 14-14-2
+  VAL101: Vacina COVID-19, vector não replicante do vírus da doença de Newcastle que
+    codifica a proteína do espigão SRA-CoV-2
+  VAL102: Vacina de peptídeo recombinante contra a hepatite E
+  VAL103: Vacina Conjugada Hib-C Haemophilus influenzae tipo b, não especificada
+  VAL104: Vacina COVID-19, subunidade de proteína, proteína recombinante do espigão
+  VAL105: Vacina pneumocócica, não especificada
+  VAL106: Vacina contra rotavírus, não especificada
+  VAL107: Vacina COVID-19, subunidade de proteína, nanopartículas de proteína recombinante
+    de espigão
+  VAL108: Vacina vírica vírica recombinante não replicante ao vivo Ad26.ZEBOV
+  VAL109: Vacina anti-Ebola não replicante do vector viral, Vacina de Ancara Modificada
+  VAL110: Imunoglobulina do tétano
+  VAL111: Vacina contra o carbúnculo acelular
+  VAL112: Vacina da gripe quadrivalente inactivada, baseada em células, dividida ou
+    subunidade, dose normal
+  VAL114: Vacina contra a hepatite B, antigénio de superfície recombinante da hepatite
+    B (HBsAg), 10 microgramas
+  VAL115: Vacina contra a hepatite B, antigénio de superfície recombinante do vírus
+    da hepatite B (HBsAg), 20 microgramas
+  VAL116: Anticorpo monoclonal para RSV, palivizumab
+  VAL117: Vacina de tosse convulsa acelular, dose não especificada
+  VAL118: Vacina meningocócica B, não especificada
+  VAL119: Vacina monovalente não conjugada de polissacarídeo meningocócica
+  VAL120: Polissacarídeo não conjugado meningocócico, polivalente
+  VAL121: Vacina oral trivalente inactivada contra a poliomielite total
+  VAL123: Vacina viva atenuada contra o rotavírus pentavalente
+  VAL124: Vacina viva atenuada contra a cólera, não especificada
+  VAL125: Vacina contra a hepatite A inactivada com virião inteiro, não especificada
+  VAL126: Vacina contra o Ébola, não especificada
+  VAL128: Vacina contra a gripe, não especificada
+  VAL129: vacina contra o herpes simplex, não especificada
+  VAL130: Vacina contra a hepatite A viossómica
+  VAL131: Vacina contra toda a peste inactivada
+  VAL132: Imunoglobulina da raiva, de origem humana
+  VAL133: Vacina oral monovalente contra a poliomielite atenuada ao vivo, tipo indeterminado
+  VAL135: Vacina COVID-19, mRNA que codifica a proteína do espigão SRA-CoV-2, em ensaios
+    clínicos
+  VAL136: Vacina meningocócica W, conjugado de polissacarídeo
+  VAL137: Vacina meningocócica C, polissacarídeo não conjugado
+  VAL138: Vacina Meningocócica W, polissacarídeo não conjugado
+  VAL139: Vacina meningocócica Y, polissacarídeo não conjugado
+  VAL140: Vacina viva atenuada contra a gripe, não especificada
+  VAL141: 'Vacina contra rotavírus monovalente RIX4414 '
+  VAL142: Vacina contra a hepatite A totalmente inactivada por virião, dose pediátrica,
+    monovalente
+  VAL143: Vacina contra a hepatite A totalmente inactivada, bivalente, dose pediátrica
+  VAL144: Vacina contra a hepatite A totalmente inactivada, monovalente, dose para
+    adultos
+  VAL145: Vacina contra a hepatite A totalmente inactivada, dose para adultos, bivalente
+    (HepA e HepB)
+  VAL146: Vacina Brucella inactivada completa
+  VAL147: Vacina contra a brucelose (fenol insolúvel) do antigénio da proteína P.I.
+  VAL148: Anticorpo monoclonal do vírus sincítico respiratório
+  VAL149: Vacina COVID-19, codificação do mRNA para a proteína spike SARS-CoV-2, 25
+    microgramas
+  VAL150: Vacina contra a dengue, não especificada
+  VAL151: Vacina contra a tularemia, não especificada
+  VAL152: Vacina contra a gripe virional inactivada, não especificada
+  VAL153: Vacina contra Haemophilus influenzae tipo b, polissacarídeo PRP conjugado
+    com difteria toxoídica
+  VAL154: Vacina contra Haemophilus influenzae tipo b, oligossacarídeos PRP conjugados
+    com a toxina da difteria mutante CRM197
+  VAL155: Vacina Haemophilus influenzae tipo b, polissacarídeo conjugado com proteína
+    da membrana externa da Neisseria meningitidis serogrupo B
+  VAL156: PRP-T Vacina contra Haemophilus influenzae tipo b, polissacarídeo PRP conjugado
+    com o tétano toxoide
+  VAL157: Vacina COVID-19, não especificada
+  VAL158: Vacina contra a Hepatite B de plasma
+  VAL159: Subunidade de vacina de herpes-zóster, não especificada
+  VAL160: Vacina contra a herpes zóster, não especificada
+  VAL161: Vacina Meningocócica B multicomponente, não especificada
+  VAL162: Vacina COVID-19, replicando o vector do vírus, não especificado
+  VAL163: Vacina COVID-19, vector viral não replicante, não especificada
+  VAL164: Vacina COVID-19, não viva, não especificada
+  VAL165: Vacina viva anti-covida 19, não especificada
+  VAL166: Vacina COVID-19, ácido nucleico, não especificada
+  VAL167: Vacina COVID-19, vector viral não replicante, com células que apresentam
+    antigénio
+  VAL168: Vacina COVID-19, RNA, não especificada
+  VAL169: Vacina auto-amplificadora do mRNA (AAA) para a Vacina 19
+  VAL170: Vacina contra a hepatite B, antigénio de superfície recombinante do vírus
+    da hepatite B (HBsAg), 5 microgramas
+  VAL171: Vacina venezuelana contra a encefalite equina, não especificada
+  VAL172: Vacina contra a febre Q (Coxiella burnetii), não especificada
+  VAL173: Vacina contra a febre hemorrágica argentina atenuada ao vivo, vírus Junin
+  VAL174: Vacina contra o hantavírus, não especificada
+  VAL175: Vacina contra a Leishmaniose, não especificada
+  VAL176: Vacina contra o vírus da parainfluenza humana, não especificada
+  VAL177: Vacina Haemophilus influenzae tipo b, não especificada
+  VAL178: COVID-19 vaccine, mRNA coding for SARS-CoV-2 spike protein, Omicron variant
+    BA.1, 25 micrograms
+  VAL179: Vacina conjugada meningocócica, monovalente
+  VAL182: Vacina contra o sarampo, não especificada
+  VAL183: Vacina contra a papeira, não especificada
+  VAL184: Vacina conjugada de polissacarídeo de Pneumococcus, monovalente
+  VAL185: Vacina não conjugada de polissacarídeo pneumocócico, não especificada
+  VAL186: Vacina conjugada de polissacarídeos pneumocócicos, serotipo 1
+  VAL187: Vacina conjugada de polissacarídeos pneumocócicos, serotipo 3
+  VAL188: Vacina conjugada de polissacarídeos pneumocócicos, serotipo 4
+  VAL189: Vacina conjugada de polissacarídeos pneumocócicos, serotipo 5
+  VAL190: Vacina conjugada de polissacarídeos pneumocócicos, serotipo 6A
+  VAL191: Vacina conjugada de polissacarídeos pneumocócicos, serotipo 6B
+  VAL192: Vacina conjugada de polissacarídeos pneumocócicos, serotipo 7F
+  VAL193: Vacina conjugada de polissacarídeos pneumocócicos, serotipo 8
+  VAL194: Vacina conjugada de polissacarídeos pneumocócicos, serotipo 9V
+  VAL195: Vacina conjugada de polissacarídeos pneumocócicos, serotipo 10A
+  VAL196: Vacina conjugada de polissacarídeos pneumocócicos, serotipo 11A
+  VAL197: Vacina conjugada de polissacarídeos pneumocócicos, serotipo 12F
+  VAL198: Vacina conjugada de polissacarídeos pneumocócicos, serotipo 14
+  VAL199: Vacina conjugada de polissacarídeos pneumocócicos, serotipo 15B
+  VAL200: Vacina conjugada de polissacarídeos pneumocócicos, serotipo 18C
+  VAL201: Vacina conjugada de polissacarídeos pneumocócicos, serotipo 19A
+  VAL202: Vacina conjugada de polissacarídeos pneumocócicos, serotipo 19F
+  VAL203: Vacina conjugada de polissacarídeos pneumocócicos, serotipo 22F
+  VAL204: Vacina conjugada de polissacarídeos pneumocócicos, serotipo 23F
+  VAL205: Vacina conjugada de polissacarídeos pneumocócicos, serotipo 33F
+  VAL206: Vacina não conjugada de polissacarídeo pneumocócico, serotipo 1
+  VAL207: Vacina não conjugada de polissacarídeo pneumocócico, serotipo 2
+  VAL208: Vacina não conjugada de polissacarídeo pneumocócico, serotipo 3
+  VAL209: Vacina não conjugada de polissacarídeo pneumocócico, serotipo 4
+  VAL210: Vacina não conjugada de polissacarídeo pneumocócico, serotipo 5
+  VAL211: Vacina não conjugada de polissacarídeo pneumocócico, serotipo 6B
+  VAL212: Vacina não conjugada de polissacarídeo pneumocócico, serotipo 7F
+  VAL213: Vacina não conjugada de polissacarídeo pneumocócico, serotipo 8
+  VAL214: Vacina não conjugada de polissacarídeo pneumocócico, serotipo 9N
+  VAL215: Vacina não conjugada de polissacarídeo pneumocócico, serotipo 9V
+  VAL216: Vacina não conjugada de polissacarídeo pneumocócico, serotipo 10A
+  VAL217: Vacina não conjugada de polissacarídeo pneumocócico, serotipo 11A
+  VAL218: Vacina não conjugada de polissacarídeo pneumocócico, serotipo 12F
+  VAL219: Vacina não conjugada de polissacarídeo pneumocócico, serotipo 14
+  VAL220: Vacina não conjugada de polissacarídeo pneumocócico, serotipo 15B
+  VAL221: Vacina não conjugada de polissacarídeo pneumocócico, serotipo 15F
+  VAL222: Vacina não conjugada de polissacarídeo pneumocócico, serotipo 17F
+  VAL223: Vacina não conjugada de polissacarídeo pneumocócico, serotipo 18C
+  VAL224: Vacina não conjugada de polissacarídeo pneumocócico, serotipo 19A
+  VAL225: Vacina não conjugada de polissacarídeo pneumocócico, serotipo 19F
+  VAL226: Vacina não conjugada de polissacarídeo pneumocócico, serotipo 20
+  VAL227: Vacina não conjugada de polissacarídeo pneumocócico, serotipo 22F
+  VAL228: Vacina não conjugada de polissacarídeo pneumocócico, serotipo 23F
+  VAL229: Vacina não conjugada de polissacarídeo pneumocócico, serotipo 33F
+  VAL232: Vacina não conjugada de polissacarídeo pneumocócico, serotipo 6A
+  VAL233: Vacina não conjugada de polissacarídeo pneumocócico, serotipo 25
+  VAL234: Vacina meningocócica, não especificada
+  VAL235: Vacina de polissacarídeo conjugado meningocócico, polivalente
+  VAL236: Vacina contra o papilomavírus humano VLP, monovalente
+  VAL237: Vacina contra o papilomavírus humano VLP, polivalente
+  VAL238: Vacina contra o papilomavírus humano VLP, tipo 6
+  VAL239: Vacina contra o papilomavírus humano VLP, tipo 11
+  VAL240: Vacina contra o papilomavírus humano VLP, tipo 16
+  VAL241: Vacina contra o papilomavírus humano VLP, tipo 18
+  VAL242: Vacina contra o papilomavírus humano VLP, tipo 31
+  VAL243: Vacina contra o papilomavírus humano VLP, tipo 33
+  VAL244: Vacina contra o papilomavírus humano VLP, tipo 58
+  VAL245: Vacina contra o papilomavírus humano VLP, tipo 52
+  VAL246: Vacina contra o papilomavírus humano VLP, tipo 45
+  VAL247: Vacina contra a encefalite japonesa atenuada e recombinante (quimérica)
+  VAL248: Vacina viva atenuada contra a encefalite japonesa, não especificada
+  VAL249: Vacina contra a encefalite japonesa, não especificada
+  VAL250: vacina contra a encefalite japonesa, inactivada, derivada do cérebro de
+    rato
+  VAL255: Vacina anti-rábica inactivada de virião inteiro, tipo Fuenzalida, preparada
+    a partir de tecido cerebral de rato em aleitamento infectado com o vírus da raiva,
+    diminuiu o conteúdo de mielina
+  VAL256: Vacina anti-rábica totalmente inactivada, preparada a partir de tecido cerebral
+    animal infectado com o vírus da raiva, não especificada
+  VAL257: Vacina contra a raiva totalmente inactivada, baseada na cultura de células,
+    não especificada
+  VAL258: Vacina contra a raiva virion total inactivada, baseada em cultura celular,
+    vacina contra células diplóides humanas (HDCV) MRC-5, inactivação com ß-propiolactona
+  VAL259: Vacina contra a raiva virion inteira inactivada, vacina purificada de células
+    embrionárias de pinto (PCECV), obtida através do cultivo da estirpe fixa do vírus
+    da raiva Flury LEP-25 em culturas primárias de fibroblastos de pinto, vírus inactivado
+    com ß-propiolactona
+  VAL260: Vacina contra a raiva virion total inactivada, vacina contra a raiva de
+    células Vero (PVRV) purificada, estirpe Wistar, inactivação com ß-propiolactona
+  VAL261: Vacina contra a raiva virion total inactivada, baseada em cultura celular,
+    vacina primária contra as células renais de hamster (PHKCV), estirpe de Pequim,
+    inactivação com formalina
+  VAL263: Vacina contra a raiva totalmente inactivada por virião, vacina de embrião
+    de pato purificado (PDEV), inactivação por ß-propiolactona
+  VAL265: Vacina COVID-19, virião inteiro inactivado, em ensaios clínicos
+  VAL266: Vacina Meningocócica C, conjugado do tétano toxoide
+  VAL267: Vacina meningocócica C, polissacarídeo conjugado com a difteria toxoide
+  VAL268: Vacina Meningocócica C, polissacarídeo conjugado com CRM197
+  VAL269: Vacina Meningocócica A, polissacarídeo conjugado com CRM197
+  VAL270: Vacina meningocócica A, polissacarídeo conjugado com a difteria toxoide
+  VAL271: Vacina meningocócica A, polissacarídeo conjugado com o tétano toxoide
+  VAL272: Vacina meningocócica W, conjugado do tétano toxoide
+  VAL274: Vacina Meningocócica W, polissacarídeo conjugado com CRM197
+  VAL275: Vacina meningocócica Y, polissacarídeo conjugado com CRM197
+  VAL276: Vacina meningocócica Y, conjugado do tétano toxoide
+  VAL273: Vacina meningocócica W, polissacarídeo conjugado com a difteria toxoide
+  VAL277: Vacina meningocócica Y, polissacarídeo conjugado com a difteria toxoide
+  VAL278: Vacina viva atenuada contra o adenovírus, oral
+  VAL280: Botulinum toxoid
+  VAL281: Vacina viva atenuada contra o adenovírus, tipo 7, oral
+  VAL282: Vacina viva atenuada contra o adenovírus, tipo 4, oral
+  VAL283: Hepatite A vacina, virião inteiro inactivado, dose pediátrica, não especificada
+  VAL285: Vacina da gripe de cultura trivalente inactivada, vacina da gripe dividida
+    ou subunidade, dose padrão
+  VAL286: Hepatite Uma vacina viva atenuada, não especificada
+  VAL287: Vacina contra a gripe recombinante quadrivalente
+  VAL288: Hepatite A vacina, não especificada
+  VAL289: Vacina COVID-19, codificação do mRNA para a proteína spike SARS-CoV-2, 10
+    microgramas
+  VAL290: Vacina COVID-19, codificação do mRNA para a proteína spike SARS-CoV-2, 30
+    microgramas
+  VAL291: Vacina contra a hepatite B recombinante, três antigénios (HbS, pré-S1 e
+    pré-S2)
+  VAL292: Vacina COVID-19, não replicadora do adenovírus 26 vector que codifica a
+    proteína do espigão da SRA-CoV-2, em ensaios clínicos
+  VAL293: Imunoglobulina antrax
+  VAL294: Vírus da vacina viva, vacina de primeira geração
+  VAL295: Vírus da vacina viva, vacina de segunda geração
+  VAL296: Vaccinia Ankara modificada, não replicável, vacina de terceira geração
+  VAL297: Vacina meningocócica A, não especificada
+  VAL298: Vacina meningocócica C, não especificada
+  VAL299: Vacina meningocócica Y, não especificada
+  VAL300: Vacina meningocócica W, não especificada
+  VAL301: Vacina trivalente contra a gripe recombinante
+  VAL302: Vacina COVID-19, codificação do mRNA para a proteína spike SARS-CoV-2, 50
+    microgramas
+  VAL303: Vacina anti-covida 19 mRNA que codifica a proteína spike da SRA-CoV-2, o
+    vírus original
+  VAL304: SRA-CoV-2, proteína spike mRNA 19 vacina, vírus original, 15 microgramas
+  VAL305: SRA-CoV-2 vacina pico da proteína mRNA 19, variante Omicron BA.1, 15 microgramas
+  VAL306: Vaccin contre l'épi de protéine 19 de l'ARNm du SRAS-CoV-2, virus original,
+    3 microgrammes
+  VAL307: SRA-CoV-2 vacina pico da proteína mRNA 19, variante Omicron BA.4/BA.5, 15
+    microgramas
+  VAL309: SRA-CoV-2 vacina pico da proteína mRNA 19, variante Omicron BA.4/BA.5, 5
+    microgramas
+  VAL310: Vacina COVID-19, mRNA que codifica a proteína spike SARS-CoV-2, vírus original,
+    5 microgramas
+  VAL331: CMV immune globulin
+  VAL338: Anticorpo ou vacina contra RSV, não especificado
+  VAL383: Single-stranded 5' capped mRNA encoding the Respiratory syncytial virus
+    glycoprotein F stabilized in the prefusion conformation
+disease:
+  DIS001: Difteria
+  DIS002: Tétano
+  DIS003: Tosse convulsa
+  DIS004: Poliomielite
+  DIS005: Haemophilus influenzae b
+  DIS006: Hepatite B
+  DIS008: Sarampo
+  DIS009: Parotidite epidémica
+  DIS010: Rubéola
+  DIS011: Varicela
+  DIS014: Tuberculose
+  DIS015: Gripe
+  DIS016: Hepatite A
+  DIS017: Febre amarela
+  DIS018: Febre tifoide
+  DIS025: Pneumococo
+  DIS027: Odkleszczowe zapalenie mózgu
+  DIS028: Encefalite japonesa
+  DIS029: Varíola-Monkeypox
+  DIS030: Raiva
+  DIS031: Dengue
+  DIS032: Rotavírus
+  DIS033: Herpes zoster
+  DIS034: Leptospirose
+  DIS036: Cólera
+  DIS038: Vírus do papiloma humano
+  DIS040: Malária
+  DIS041: Brucelose
+  DIS042: tifo exantematoso
+  DIS043: Meningococo C
+  DIS044: Meningococo A
+  DIS045: Meningococo B
+  DIS046: Meningococo W
+  DIS047: Meningococo Y
+  DIS048: Meningococo
+  DIS050: Gripe aviária
+  DIS051: Carbúnculo
+  DIS052: Botulismo
+  DIS053: Doença de lyme
+  DIS054: Hepatite E
+  DIS055: Ébola
+  DIS056: Chicungunha
+  DIS057: COVID-19
+  DIS058: Vírus sincicial respiratório
+  DIS059: Praga
+  DIS060: Herpes
+  DIS061: Tularemia
+  DIS062: febre hemorrágica argentina
+  DIS063: Adenovírus
+  DIS064: Encefalite equina venezuelana
+  DIS065: febre Q
+  DIS066: Hantavírus
+  DIS067: Leishmaniose
+  DIS068: Vírus da parainfluenza humana
+  DIS070: Citomegalovírus
+  DIS071: Hepatite C
+  DIS072: Infecção pelo VIH
+  DIS073: Melanoma
+  DIS074: Streptococcus pyogenes
+  DIS075: Febre do Vale do Rift
+  DIS076: Infecção urinária
