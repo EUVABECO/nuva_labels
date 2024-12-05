@@ -62,7 +62,7 @@ en:
     DIS075: "Rift Valley fever"
     DIS076: "Urinary infection"
     DIS077: "Enterovirus"
-  vaccine:	
+  vaccine:
     VAC0084: "H5N1 pre-pandemic influenza vaccine, unspecified"
     VAC0088: "DTIPV vaccine, unspecified"
     VAC0101: "Hepatitis B vaccine, unspecified"
@@ -403,7 +403,7 @@ en:
     VAC1249: "Flu vaccine, trivalent inactivated, high dose, intradermal use, unspecified"
     VAC1256: "Hexavalent vaccine DTwPHibPHepB - Diphtheria-Tetanus-Pertussis-Hib-Polio-Hepatitis B 15Âµg, unspecified"
     VAC1257: "Cholera vaccine, whole inactivated oral, bivalent containing the whole inactivated V. cholerae O1 and O139 bacteria, unspecified"
-  valence:	
+  valence:
     VAL001: "Trivalent live attenuated influenza vaccine, normal dose"
     VAL002: "Typhoid conjugated vaccine, Vi polysaccharide antigen linked to a carrier protein"
     VAL003: "Pertussis vaccine, unspecified"
