@@ -141,8 +141,10 @@ lv:
     VAC0787: "Diphtheria-Tetanus-Rubella, unspecified"
     VAC0788: "Hib-IPV, unspecified"
     VAC0790: "Diphtheria-Tetanus-Hepatitis B vaccine, unspecified"
-    VAC0791: "Šešiavalentė difterijos, stabligės, kokliušo, poliomielito, Hib ir hepatito B vakcina, nepatikslinta"
-    VAC0792: "Diphtheria-Tetanus-Pertussis-Polio-Hepatitis B pentavalent vaccine, unspecified"
+    VAC0791: "Šešiavalentė difterijos, stabligės, kokliušo, poliomielito, Hib ir hepatito
+      B vakcina, nepatikslinta"
+    VAC0792: "Diphtheria-Tetanus-Pertussis-Polio-Hepatitis B pentavalent vaccine,
+      unspecified"
     VAC0794: "T-igT, unspecified"
     VAC0795: "Acellular pertussis vaccine, unspecified"
     VAC0796: "Pertussis vaccine, unspecified"
@@ -197,7 +199,8 @@ lv:
     VAC0865: "Polisacharidinė meningokokinė A vakcina, nepatikslinta"
     VAC0866: "Meningokokinė konjuguota vakcina A, nepatikslinta"
     VAC0867: "Difterijos antitoksinas, nepatikslintas"
-    VAC0880: "Penkialentė difterijos-stabligės-kokliušo-Hib-polio (DTPerHibIPV) vakcina, nepatikslinta"
+    VAC0880: "Penkialentė difterijos-stabligės-kokliušo-Hib-polio (DTPerHibIPV) vakcina,
+      nepatikslinta"
     VAC0881: "Gyva susilpninta japoniško encefalito vakcina, nepatikslinta"
     VAC0894: "Adenovirus vaccine, unspecified"
     VAC0895: "Venesuelos arklių encefalito vakcina, nepatikslinta"
@@ -240,7 +243,8 @@ lv:
     VAC0945: "Meningokokinės vakcinos serogrupė nežinoma, nepatikslinta"
     VAC0997: "13-valentė konjuguota pneumokokinė vakcina, nepatikslinta"
     VAC1037: "Vakcina nuo erkinio encefalito, Neudörfl padermė, dozė vaikams, nepatikslinta"
-    VAC1038: "Vakcina nuo erkinio encefalito, Neudörfl padermė, dozė suaugusiems, nepatikslinta"
+    VAC1038: "Vakcina nuo erkinio encefalito, Neudörfl padermė, dozė suaugusiems,
+      nepatikslinta"
     VAC1039: "COVID-19 mRNR vakcina, originalus virusas, 50 µg, nepatikslinta"
     VAC1041: "COVID-19 RNR vakcina, nepatikslinta"
     VAC1042: "COVID-19 vakcina, nesidauginantis virusinis vektorius, nepatikslintas"
@@ -260,30 +264,37 @@ lv:
     VAC1075: "Neląstelinė juodligės vakcina, nepatikslinta"
   valence:
     VAL001: "Trivalentė gyva susilpninta gripo vakcina, įprastinė dozė"
-    VAL002: "Konjuguota vakcina nuo vidurių šiltinės, Vi polisacharidinis antigenas, sujungtas su baltymu nešėju"
+    VAL002: "Konjuguota vakcina nuo vidurių šiltinės, Vi polisacharidinis antigenas,
+      sujungtas su baltymu nešėju"
     VAL003: "Vakcina nuo kokliušo, nepatikslinta"
     VAL004: "Inaktyvuota visa injekcinė choleros vakcina"
     VAL005: "Gyva susilpninta tymų vakcina"
     VAL006: "Brucella vakcina, nepatikslinta"
-    VAL007: "Rekombinantinis vezikulinio stomatito viruso (rVSV) replikacinis vektorius Ebolos vakcina - EBOV GP glikoproteinas"
+    VAL007: "Rekombinantinis vezikulinio stomatito viruso (rVSV) replikacinis vektorius
+      Ebolos vakcina - EBOV GP glikoproteinas"
     VAL008: "Aceliarinė kokliušo vakcina, standartinė dozė"
     VAL009: "Vakcinos nuo sporozoitų paviršiaus baltymų"
     VAL010: "Visa inaktyvuota kokliušo vakcina"
-    VAL011: "COVID-19 vakcina, baltymo subvienetas, rekombinantinis smaigalio baltymas (RBD)"
-    VAL012: "Hepatito B vakcina, rekombinantinė Hepatito B viruso paviršiaus antigenas (HBsAg), 40 mikrogramų (dozė dializuojamiems pacientams)"
+    VAL011: "COVID-19 vakcina, baltymo subvienetas, rekombinantinis smaigalio baltymas
+      (RBD)"
+    VAL012: "Hepatito B vakcina, rekombinantinė Hepatito B viruso paviršiaus antigenas
+      (HBsAg), 40 mikrogramų (dozė dializuojamiems pacientams)"
     VAL013: "Varicella zoster viruso (VZV) paviršiaus glikoproteinas E (gE)"
     VAL014: "Nepatikslinta vakcina nuo vidurių šiltinės"
     VAL016: "Imunoglobulinas nuo pasiutligės, nepatikslintas"
     VAL017: "Aceliarinė kokliušo vakcina, maža dozė"
-    VAL018: "Trečiosios kartos raupų vakcina, mažai besikartojantis gyvas vakcinijos virusas"
+    VAL018: "Trečiosios kartos raupų vakcina, mažai besikartojantis gyvas vakcinijos
+      virusas"
     VAL019: "Difterijos antitoksinas"
     VAL020: "Gyva susilpninta vakcina nuo juostinės pūslelinės"
     VAL021: "Geriamoji inaktyvuota visa choleros vakcina"
     VAL022: "Gyva susilpninta raupų vakcina, nepatikslinta"
     VAL025: "Vakcina nuo maliarijos, nepatikslinta"
     VAL026: "Meningokokinė vakcina B:14:P1.7,16 su išorinės membranos pūslelių baltymais"
-    VAL027: "COVID-19 vakcina, nesikartojantis adenoviruso 26 vektorius, koduojantis SARS-CoV-2 smaigalio baltymą"
-    VAL028: "Modifikuotas Ankaros vakcinos virusas, nesikartojantis, trečiosios kartos vakcina, nepatikslinta"
+    VAL027: "COVID-19 vakcina, nesikartojantis adenoviruso 26 vektorius, koduojantis
+      SARS-CoV-2 smaigalio baltymą"
+    VAL028: "Modifikuotas Ankaros vakcinos virusas, nesikartojantis, trečiosios kartos
+      vakcina, nepatikslinta"
     VAL029: "Sezoninio gripo VLP vakcina, nepatikslinta"
     VAL030: "Vakcina prieš Borrelia burgdorferi - išorinio paviršiaus baltymas A (OspA)"
     VAL031: "Erkinis encefalitas"
@@ -291,9 +302,11 @@ lv:
     VAL033: "Vienvalentė gyva susilpninta 2 tipo oralinė poliomielito vakcina"
     VAL034: "Difterijos toksoidas, maža dozė"
     VAL035: "COVID-19 vakcina, plazmidinė DNR, koduojanti SARS-CoV-2 smaigalio baltymą"
-    VAL036: "Žmogaus papilomos viruso VLP nevalentinė vakcina, 6, 11, 16, 18, 31, 33, 45, 52, 58 tipai"
+    VAL036: "Žmogaus papilomos viruso VLP nevalentinė vakcina, 6, 11, 16, 18, 31,
+      33, 45, 52, 58 tipai"
     VAL037: "Nekonjuguota polisacharidinė A meningokokinė vakcina"
-    VAL038: "COVID-19 vakcina, replikuojantis tymų viruso vektorius, koduojantis SARS-CoV-2 smaigalio baltymą"
+    VAL038: "COVID-19 vakcina, replikuojantis tymų viruso vektorius, koduojantis SARS-CoV-2
+      smaigalio baltymą"
     VAL039: "COVID-19 vakcina, VLP, rekombinantinis smaigalio baltymas"
     VAL041: "Meningokoko A polisacharidinė konjuguota vakcina"
     VAL042: "Vakcina nuo poliomielito, nepatikslinta"
@@ -304,29 +317,38 @@ lv:
     VAL047: "Hepatito B imunoglobulinas"
     VAL048: "Inaktyvuota visa kiaulytės vakcina"
     VAL049: "Nekonjuguota polisacharidinė Hib vakcina"
-    VAL050: "COVID-19 vakcina, nesikartojantis adenoviruso 5 vektorius, koduojantis SARS-CoV-2 smaigalio baltymą, nepatikslintas"
+    VAL050: "COVID-19 vakcina, nesikartojantis adenoviruso 5 vektorius, koduojantis
+      SARS-CoV-2 smaigalio baltymą, nepatikslintas"
     VAL051: "Priešpandeminė vakcina nuo A(H5N1) gripo"
     VAL052: "Žmogaus papilomos viruso VLP keturvalentė vakcina, 6, 11, 16 ir 18 tipų"
-    VAL053: "COVID-19 vakcina, baltymo subvienetas, rekombinantinis smaigalio baltymas, nepatikslintas"
-    VAL054: "COVID-19 vakcina, nesikartojantis modifikuotas Vaccinia Virus Ankara vektorius, koduojantis SARS-CoV-2 smaigalio baltymą"
+    VAL053: "COVID-19 vakcina, baltymo subvienetas, rekombinantinis smaigalio baltymas,
+      nepatikslintas"
+    VAL054: "COVID-19 vakcina, nesikartojantis modifikuotas Vaccinia Virus Ankara
+      vektorius, koduojantis SARS-CoV-2 smaigalio baltymą"
     VAL055: "Tymų imunoglobulinas"
     VAL056: "Visa inaktyvuota trivalentė injekcinė poliomielito vakcina"
     VAL057: "Meningokokinė C polisacharidinė konjuguota vakcina"
     VAL058: "Nepatikslinta inaktyvuota gripo vakcina, suskaidyta arba subvienetinė"
     VAL059: "Keturvalentė gyva susilpninta gripo vakcina, standartinė dozė"
     VAL060: "Gyva susilpninta vakcina nuo čikungunijos"
-    VAL061: "COVID-19 vakcina, baltyminis subvienetas, rekombinantinis smaigalio baltymas, S-2P ir CpG1018"
+    VAL061: "COVID-19 vakcina, baltyminis subvienetas, rekombinantinis smaigalio baltymas,
+      S-2P ir CpG1018"
     VAL063: "Botulino antitoksinas"
     VAL065: "Gyva susilpninta rekombinantinė chimerinė tetravalentinė Denge vakcina"
-    VAL066: "COVID-19 vakcina, replikuojantis gripo viruso vektorius, koduojantis SARS-CoV-2 smaigalio baltymą"
+    VAL066: "COVID-19 vakcina, replikuojantis gripo viruso vektorius, koduojantis
+      SARS-CoV-2 smaigalio baltymą"
     VAL067: "Stabligės toksoidas"
     VAL068: "Hepatito B vakcina, nepatikslinta"
-    VAL069: "COVID-19 vakcina, nesikartojantis šimpanzių adenovirusinis vektorius ChAdOx1, koduojantis SARS-CoV-2 smaigalio baltymą"
-    VAL070: "Nepasikartojanti viruso vektoriaus vakcina nuo kovidų 19, adenovirusas, koduojantis SARS-CoV-2 smaigalio baltymą, nepatikslintas"
+    VAL069: "COVID-19 vakcina, nesikartojantis šimpanzių adenovirusinis vektorius
+      ChAdOx1, koduojantis SARS-CoV-2 smaigalio baltymą"
+    VAL070: "Nepasikartojanti viruso vektoriaus vakcina nuo kovidų 19, adenovirusas,
+      koduojantis SARS-CoV-2 smaigalio baltymą, nepatikslintas"
     VAL071: "Inaktyvuota visa vidurių šiltinės vakcina"
     VAL072: "Meningokokinė B vakcina, kurios sudėtyje yra A ir B pogrupių fHbp"
-    VAL073: "COVID-19 vakcina, replikuojantis viruso vektorius, su antigeną pateikiančiomis ląstelėmis"
-    VAL074: "Keturvalentė inaktyvuota keturvalentė gripo vakcina, padalinta arba subvienetinė, didelė dozė"
+    VAL073: "COVID-19 vakcina, replikuojantis viruso vektorius, su antigeną pateikiančiomis
+      ląstelėmis"
+    VAL074: "Keturvalentė inaktyvuota keturvalentė gripo vakcina, padalinta arba subvienetinė,
+      didelė dozė"
     VAL075: "Inaktyvuota visa vakcina nuo Leptospira icterohaemorrhagiae"
     VAL076: "COVID-19 vakcina, inaktyvuota visu virionu, nepatikslinta"
     VAL077: "Gyva kiaulytės vakcina"
@@ -336,37 +358,47 @@ lv:
     VAL081: "Nepatikslinta choleros vakcina"
     VAL082: "Žmogaus papilomos viruso vakcina, nepatikslinta"
     VAL083: "Difterijos toksoidas, dozė nenurodyta"
-    VAL084: "COVID-19 vakcina, replikuojantis vezikulinio stomatito viruso vektorius, koduojantis SARS-CoV-2 smaigalio baltymą"
+    VAL084: "COVID-19 vakcina, replikuojantis vezikulinio stomatito viruso vektorius,
+      koduojantis SARS-CoV-2 smaigalio baltymą"
     VAL085: "Vienvalentė gyva susilpninta 3 tipo oralinė poliomielito vakcina"
     VAL086: "Gyva susilpninta 19-covidų vakcina, nepatikslinta"
-    VAL087: "Gyva susilpninta tetravalentinė chimerinė rekombinantinė denge vakcina, sukurta geltonojo drugio vakcinos 17D pagrindu"
+    VAL087: "Gyva susilpninta tetravalentinė chimerinė rekombinantinė denge vakcina,
+      sukurta geltonojo drugio vakcinos 17D pagrindu"
     VAL088: "Vėjaraupių imunoglobulinas"
     VAL089: "Inaktyvuota japoniškojo encefalito vakcina, nepatikslinta"
-    VAL090: "Hepatito B vakcina, rekombinantinis hepatito B viruso paviršiaus antigenas (HBsAg), dozė nenurodyta"
+    VAL090: "Hepatito B vakcina, rekombinantinis hepatito B viruso paviršiaus antigenas
+      (HBsAg), dozė nenurodyta"
     VAL091: "Gyva susilpninta vidurių šiltinės vakcina, Ty21a padermė, geriamoji"
     VAL092: "Geltonasis drugys"
     VAL093: "Inaktyvuota visa tymų vakcina"
-    VAL095: "COVID-19 vakcina, replikuojantis Niukaslio ligos viruso vektorius, koduojantis SARS-CoV-2 smaigalio baltymą"
+    VAL095: "COVID-19 vakcina, replikuojantis Niukaslio ligos viruso vektorius, koduojantis
+      SARS-CoV-2 smaigalio baltymą"
     VAL096: "BCG vakcina"
     VAL097: "Difterijos toksoidas, standartinė dozė"
     VAL098: "4 komponentų meningokokinė B vakcina"
     VAL099: "Inaktyvuota 2009 m. pandeminė H1N1 vakcina"
     VAL100: "Gyva susilpninta japoniškojo encefalito vakcina, 14-14-2 padermė"
-    VAL101: "COVID-19 vakcina, nesikartojantis Niukaslio ligos viruso vektorius, koduojantis SARS-CoV-2 smaigalio baltymą"
+    VAL101: "COVID-19 vakcina, nesikartojantis Niukaslio ligos viruso vektorius, koduojantis
+      SARS-CoV-2 smaigalio baltymą"
     VAL102: "Rekombinantinė peptidinė vakcina nuo hepatito E"
     VAL103: "Hib-C Haemophilus influenzae b tipo konjuguota vakcina, nepatikslinta"
     VAL104: "COVID-19 vakcina, baltymo subvienetas, rekombinantinis spyglio baltymas"
     VAL105: "Pneumokokinė vakcina, nepatikslinta"
     VAL106: "Rotaviruso vakcina, nepatikslinta"
-    VAL107: "COVID-19 vakcina, baltymo subvienetas, rekombinantinės smailiojo baltymo nanodalelės"
+    VAL107: "COVID-19 vakcina, baltymo subvienetas, rekombinantinės smailiojo baltymo
+      nanodalelės"
     VAL108: "Gyva nesikartojanti rekombinantinio viruso vektoriaus vakcina Ad26.ZEBOV"
-    VAL109: "Vakcina nuo Ebolos, nereplikuojanti viruso vektoriaus vakcina, modifikuota Ankaros vakcina"
+    VAL109: "Vakcina nuo Ebolos, nereplikuojanti viruso vektoriaus vakcina, modifikuota
+      Ankaros vakcina"
     VAL110: "Stabligės imunoglobulinas"
     VAL111: "Acelulinė juodligės vakcina"
-    VAL112: "Keturvalentė inaktyvuota gripo vakcina, ląstelių pagrindu, padalinta arba subvienetinė, įprastinė dozė"
+    VAL112: "Keturvalentė inaktyvuota gripo vakcina, ląstelių pagrindu, padalinta
+      arba subvienetinė, įprastinė dozė"
     VAL113: "16 ir 18 tipų žmogaus papilomos viruso VLP bivalentinė vakcina"
-    VAL114: "Hepatito B vakcina, rekombinantinis hepatito B paviršiaus antigenas (HBsAg), 10 mikrogramų"
-    VAL115: "Hepatito B vakcina, rekombinantinis hepatito B viruso paviršiaus antigenas (HBsAg), 20 mikrogramų"
+    VAL114: "Hepatito B vakcina, rekombinantinis hepatito B paviršiaus antigenas (HBsAg),
+      10 mikrogramų"
+    VAL115: "Hepatito B vakcina, rekombinantinis hepatito B viruso paviršiaus antigenas
+      (HBsAg), 20 mikrogramų"
     VAL116: "Monokloninis antikūnas prieš RSV, palivizumab"
     VAL117: "Aceliarinė kokliušo vakcina, dozė nenurodyta"
     VAL118: "Meningokoko B vakcina, nepatikslinta"
@@ -383,7 +415,8 @@ lv:
     VAL131: "Visa inaktyvuota maro vakcina"
     VAL132: "Vienvalentė gyva susilpninta 1 tipo oralinė poliomielito vakcina"
     VAL133: "Monovalentinė gyva susilpninta oralinė poliomielito vakcina, nepatikslinta"
-    VAL135: "COVID-19 vakcina, mRNA, koduojanti SARS-CoV-2 smaigalio baltymą, klinikinių tyrimų metu"
+    VAL135: "COVID-19 vakcina, mRNA, koduojanti SARS-CoV-2 smaigalio baltymą, klinikinių
+      tyrimų metu"
     VAL136: "Vakcina nuo meningokoko W, polisacharidinis konjugatas"
     VAL137: "Nekonjuguota polisacharidinė meningokokinė C vakcina"
     VAL138: "Nekonjuguota polisacharidinė vakcina nuo meningokoko W"
@@ -392,8 +425,10 @@ lv:
     VAL141: "RIX4414 monovalentinė rotaviruso vakcina"
     VAL142: "Inaktyvuota visa vakcina nuo hepatito A, monovalentinė, pediatrinė dozė"
     VAL143: "Dvivalentė inaktyvuota hepatito A vakcina su visu virionu, vaikų dozė"
-    VAL144: "Viso viriono inaktyvuota hepatito A vakcina, monovalentinė, suaugusiųjų dozė"
-    VAL145: "Inaktyvuota hepatito A vakcina, suaugusiųjų dozė, dvivalentė (HepA ir HepB)"
+    VAL144: "Viso viriono inaktyvuota hepatito A vakcina, monovalentinė, suaugusiųjų
+      dozė"
+    VAL145: "Inaktyvuota hepatito A vakcina, suaugusiųjų dozė, dvivalentė (HepA ir
+      HepB)"
     VAL146: "Visa inaktyvuota Brucella vakcina"
     VAL147: "P.I. (fenolyje netirpstančio) baltymo antigeno vakcina nuo bruceliozės"
     VAL148: "Kvėpavimo takų sincitinio viruso monokloninis antikūnas"
@@ -401,10 +436,14 @@ lv:
     VAL150: "Dengė vakcina, nepatikslinta"
     VAL151: "Tuliaremijos vakcina, nepatikslinta"
     VAL152: "Viso viriono inaktyvuota gripo vakcina, nepatikslinta"
-    VAL153: "Haemophilus influenzae b tipo polisacharidinė PRP vakcina, konjuguota su difterijos toksoidu"
-    VAL154: "Haemophilus influenzae b tipo vakcina, PRP oligosacharidai, konjuguoti su mutavusiu difterijos toksinu CRM197"
-    VAL155: "Haemophilus influenzae b tipo vakcina, polisacharidinė, konjuguota su Neisseria meningitidis B serogrupės išorinės membranos baltymu"
-    VAL156: "PRP-T Haemophilus influenzae b tipo vakcina, polisacharidinė PRP vakcina, konjuguota su stabligės toksoidu"
+    VAL153: "Haemophilus influenzae b tipo polisacharidinė PRP vakcina, konjuguota
+      su difterijos toksoidu"
+    VAL154: "Haemophilus influenzae b tipo vakcina, PRP oligosacharidai, konjuguoti
+      su mutavusiu difterijos toksinu CRM197"
+    VAL155: "Haemophilus influenzae b tipo vakcina, polisacharidinė, konjuguota su
+      Neisseria meningitidis B serogrupės išorinės membranos baltymu"
+    VAL156: "PRP-T Haemophilus influenzae b tipo vakcina, polisacharidinė PRP vakcina,
+      konjuguota su stabligės toksoidu"
     VAL157: "COVID-19 vakcina, nepatikslinta"
     VAL158: "Hepatito B plazmos vakcina"
     VAL159: "Vakcina nuo juostinės pūslelinės, nepatikslinta"
@@ -415,10 +454,12 @@ lv:
     VAL164: "COVID-19 vakcina, negyva, nepatikslinta"
     VAL165: "Gyva vakcina nuo kovidozės 19, nepatikslinta"
     VAL166: "COVID-19 vakcina, nukleino rūgštis, nepatikslinta"
-    VAL167: "COVID-19 vakcina, nesikartojantis viruso vektorius, su antigeną pateikiančiomis ląstelėmis"
+    VAL167: "COVID-19 vakcina, nesikartojantis viruso vektorius, su antigeną pateikiančiomis
+      ląstelėmis"
     VAL168: "RNR vakcina nuo kovidų 19, nepatikslinta"
     VAL169: "COVID-19 vakcina, savaime amplifikuojanti mRNA (SAM)"
-    VAL170: "Hepatito B vakcina, rekombinantinis hepatito B viruso paviršiaus antigenas (HBsAg), 5 mikrogramai"
+    VAL170: "Hepatito B vakcina, rekombinantinis hepatito B viruso paviršiaus antigenas
+      (HBsAg), 5 mikrogramai"
     VAL171: "Venesuelos arklių encefalito vakcina, nepatikslinta"
     VAL172: "Vakcina nuo Q karštligės (Coxiella burnetii), nepatikslinta"
     VAL173: "Gyva susilpninta Argentinos hemoraginės karštligės vakcina, Junin virusas"
@@ -426,10 +467,13 @@ lv:
     VAL175: "Vakcina nuo leišmaniozės, nepatikslinta"
     VAL176: "Žmogaus paragripo virusų vakcina, nepatikslinta"
     VAL177: "Haemophilus influenzae b tipo vakcina, nepatikslinta"
-    VAL178: "COVID-19 vaccine, mRNA coding for SARS-CoV-2 spike protein, Omicron variant BA.1, 25 micrograms"
+    VAL178: "COVID-19 vaccine, mRNA coding for SARS-CoV-2 spike protein, Omicron variant
+      BA.1, 25 micrograms"
     VAL179: "Meningokokinė konjuguota vakcina, monovalentinė"
-    VAL180: "COVID-19 vakcina, mRNA, koduojanti SARS-CoV-2 smaigalio baltymą, 100 mikrogramų"
-    VAL181: "COVID-19 vakcina, mRNA, koduojanti SARS-CoV-2 smaigalio baltymą, originalus SARS-CoV-2 virusas, 25 mikrogramai"
+    VAL180: "COVID-19 vakcina, mRNA, koduojanti SARS-CoV-2 smaigalio baltymą, 100
+      mikrogramų"
+    VAL181: "COVID-19 vakcina, mRNA, koduojanti SARS-CoV-2 smaigalio baltymą, originalus
+      SARS-CoV-2 virusas, 25 mikrogramai"
     VAL182: "Vakcina nuo tymų, nepatikslinta"
     VAL183: "Nepatikslinta kiaulytės vakcina"
     VAL184: "Pneumokoko polisacharidų konjuguota vakcina, monovalentinė"
@@ -500,16 +544,29 @@ lv:
     VAL251: "Inaktyvuota japoniškojo encefalito vakcina, gauta iš Vero ląstelių"
     VAL252: "Pasiutligės imunoglobulinas, žmogaus kilmės"
     VAL253: "Pasiutligės imunoglobulinas, arklinės kilmės"
-    VAL254: "Viso viriono inaktyvuota pasiutligės vakcina, Semple tipo, paruošta iš pasiutligės virusu užkrėsto ožkos arba avies smegenų audinio, sudėtyje yra mielino"
-    VAL255: "Fuenzalida tipo inaktyvuota pasiutligės vakcina, paruošta iš pasiutligės virusu infekuoto žindomų pelių smegenų audinio, sumažėjęs mielino kiekis"
-    VAL256: "Viso viriono inaktyvuota pasiutligės vakcina, paruošta iš gyvūnų smegenų audinio, užkrėsto pasiutligės virusu, nepatikslinta"
-    VAL257: "Viso viriono inaktyvuota pasiutligės vakcina, pagaminta iš ląstelių kultūrų, nepatikslinta"
-    VAL258: "Inaktyvuota pasiutligės vakcina, ląstelių kultūrų pagrindu, žmogaus diploidinių ląstelių vakcina (HDCV) MRC-5, inaktyvinta ß-propiolaktonu"
-    VAL259: "Viso viruso inaktyvuota pasiutligės vakcina, išgryninta viščiuko embriono ląstelių vakcina (PCECV), gauta auginant fiksuotą pasiutligės viruso padermę Flury LEP-25 pirminėse viščiukų fibroblastų kultūrose, virusas inaktyvuotas ß-propiolaktonu"
-    VAL260: "Inaktyvuota vakcina nuo pasiutligės, ląstelių kultūrų pagrindu, išgryninta Vero ląstelių pasiutligės vakcina (PVRV), Wistar padermė, inaktyvavimas ß-propiolaktonu"
-    VAL261: "Viso viriono inaktyvuota pasiutligės vakcina, ląstelių kultūrų pagrindu, pirminė žiurkėnų inkstų ląstelių vakcina (PHKCV), Pekino padermė, inaktyvavimas formalinu"
-    VAL262: "Viso viriono inaktyvuota pasiutligės vakcina, embrionuoto kiaušinio vakcina (EEV), nepatikslinta"
-    VAL263: "Viso viriono inaktyvuota pasiutligės vakcina, išgryninta ančių embrionų vakcina (PDEV), inaktyvavimas ß-propiolaktonu"
+    VAL254: "Viso viriono inaktyvuota pasiutligės vakcina, Semple tipo, paruošta iš
+      pasiutligės virusu užkrėsto ožkos arba avies smegenų audinio, sudėtyje yra mielino"
+    VAL255: "Fuenzalida tipo inaktyvuota pasiutligės vakcina, paruošta iš pasiutligės
+      virusu infekuoto žindomų pelių smegenų audinio, sumažėjęs mielino kiekis"
+    VAL256: "Viso viriono inaktyvuota pasiutligės vakcina, paruošta iš gyvūnų smegenų
+      audinio, užkrėsto pasiutligės virusu, nepatikslinta"
+    VAL257: "Viso viriono inaktyvuota pasiutligės vakcina, pagaminta iš ląstelių kultūrų,
+      nepatikslinta"
+    VAL258: "Inaktyvuota pasiutligės vakcina, ląstelių kultūrų pagrindu, žmogaus diploidinių
+      ląstelių vakcina (HDCV) MRC-5, inaktyvinta ß-propiolaktonu"
+    VAL259: "Viso viruso inaktyvuota pasiutligės vakcina, išgryninta viščiuko embriono
+      ląstelių vakcina (PCECV), gauta auginant fiksuotą pasiutligės viruso padermę
+      Flury LEP-25 pirminėse viščiukų fibroblastų kultūrose, virusas inaktyvuotas
+      ß-propiolaktonu"
+    VAL260: "Inaktyvuota vakcina nuo pasiutligės, ląstelių kultūrų pagrindu, išgryninta
+      Vero ląstelių pasiutligės vakcina (PVRV), Wistar padermė, inaktyvavimas ß-propiolaktonu"
+    VAL261: "Viso viriono inaktyvuota pasiutligės vakcina, ląstelių kultūrų pagrindu,
+      pirminė žiurkėnų inkstų ląstelių vakcina (PHKCV), Pekino padermė, inaktyvavimas
+      formalinu"
+    VAL262: "Viso viriono inaktyvuota pasiutligės vakcina, embrionuoto kiaušinio vakcina
+      (EEV), nepatikslinta"
+    VAL263: "Viso viriono inaktyvuota pasiutligės vakcina, išgryninta ančių embrionų
+      vakcina (PDEV), inaktyvavimas ß-propiolaktonu"
     VAL264: "COVID-19 vakcina, inaktyvuota viso viriono vakcina"
     VAL265: "COVID-19 vakcina, inaktyvuota visu virionu, klinikinių tyrimų metu"
     VAL266: "Meningokokinė C vakcina, stabligės toksoido konjugatas"
@@ -530,14 +587,16 @@ lv:
     VAL282: "Gyva susilpninta 4 tipo adenoviruso vakcina, geriamoji"
     VAL283: "Hepatito A vakcina, inaktyvuota visu virionu, pediatrinė dozė, nepatikslinta"
     VAL284: "Visa inaktyvuota hepatito A vakcina, suaugusiųjų dozė, nepatikslinta"
-    VAL285: "Trivalentė inaktyvuota ląstelių kultūrų gripo vakcina, dalinė arba subvienetinė, standartinė dozė"
+    VAL285: "Trivalentė inaktyvuota ląstelių kultūrų gripo vakcina, dalinė arba subvienetinė,
+      standartinė dozė"
     VAL286: "Hepatito A gyva susilpninta vakcina, nepatikslinta"
     VAL287: "Keturvalentė rekombinantinė gripo vakcina"
     VAL288: "Hepatito A vakcina, nepatikslinta"
     VAL289: "COVID-19 vakcina, mRNA, koduojanti SARS-CoV-2 smaigalio baltymą, 10 mikrogramų"
     VAL290: "COVID-19 vakcina, mRNA, koduojanti SARS-CoV-2 smaigalio baltymą, 30 mikrogramų"
     VAL291: "Rekombinantinė hepatito B vakcina, trys antigenai (HbS, pre-S1 ir pre-S2)"
-    VAL292: "COVID-19 vakcina, nesikartojantis adenoviruso 26 vektorius, koduojantis SARS-CoV-2 smaigalio baltymą, klinikinių tyrimų metu"
+    VAL292: "COVID-19 vakcina, nesikartojantis adenoviruso 26 vektorius, koduojantis
+      SARS-CoV-2 smaigalio baltymą, klinikinių tyrimų metu"
     VAL293: "Juodligės imunoglobulinas"
     VAL294: "Gyvas vakcinos virusas, pirmos kartos vakcina"
     VAL295: "Gyvas vakcinos virusas, antros kartos vakcina"
@@ -547,16 +606,25 @@ lv:
     VAL299: "Meningokoko Y vakcina, nepatikslinta"
     VAL300: "Meningokokinė W vakcina, nepatikslinta"
     VAL301: "Rekombinantinė trivalentė gripo vakcina"
-    VAL302: "COVID-19 vakcina, mRNA, koduojanti SARS-CoV-2 smaigalio baltymą, 50 mikrogramų, COVID-19 vakcina, mRNA, koduojanti SARS-CoV-2 smaigalio baltymą, 50 mikrogramų"
-    VAL303: "Anti-covid 19 mRNA vakcina, koduojanti SARS-CoV-2, originalaus viruso, smaigalio baltymą"
-    VAL304: "SARS-CoV-2 smailiojo baltymo mRNA 19 vakcina, originalus virusas, 15 mikrogramų"
-    VAL305: "SARS-CoV-2 didžiausia baltymo mRNA 19 vakcina, Omicron BA.1 variantas, 15 mikrogramų"
-    VAL306: "SARS-CoV-2 didžiausia baltymo mRNA 19 vakcina, originalus virusas, 3 mikrogramai"
-    VAL307: "SARS-CoV-2 didžiausia baltymo mRNA 19 vakcina, Omicron BA.4/BA.5 variantas, 15 mikrogramų"
-    VAL308: "SARS-CoV-2 smailiojo baltymo mRNA 19 vakcina, Omicron BA.4/BA.5 variantas, 25 mikrogramai "
-    VAL309: "SARS-CoV-2 didžiausia baltymo mRNA 19 vakcina, Omicron BA.4/BA.5 variantas, 5 mikrogramų"
-    VAL310: "COVID-19 vakcina, mRNR, koduojanti SARS-CoV-2 smaigalio baltymą, originalus virusas, 5 mikrogramai"
+    VAL302: "COVID-19 vakcina, mRNA, koduojanti SARS-CoV-2 smaigalio baltymą, 50 mikrogramų,
+      COVID-19 vakcina, mRNA, koduojanti SARS-CoV-2 smaigalio baltymą, 50 mikrogramų"
+    VAL303: "Anti-covid 19 mRNA vakcina, koduojanti SARS-CoV-2, originalaus viruso,
+      smaigalio baltymą"
+    VAL304: "SARS-CoV-2 smailiojo baltymo mRNA 19 vakcina, originalus virusas, 15
+      mikrogramų"
+    VAL305: "SARS-CoV-2 didžiausia baltymo mRNA 19 vakcina, Omicron BA.1 variantas,
+      15 mikrogramų"
+    VAL306: "SARS-CoV-2 didžiausia baltymo mRNA 19 vakcina, originalus virusas, 3
+      mikrogramai"
+    VAL307: "SARS-CoV-2 didžiausia baltymo mRNA 19 vakcina, Omicron BA.4/BA.5 variantas,
+      15 mikrogramų"
+    VAL308: "SARS-CoV-2 smailiojo baltymo mRNA 19 vakcina, Omicron BA.4/BA.5 variantas,
+      25 mikrogramai "
+    VAL309: "SARS-CoV-2 didžiausia baltymo mRNA 19 vakcina, Omicron BA.4/BA.5 variantas,
+      5 mikrogramų"
+    VAL310: "COVID-19 vakcina, mRNR, koduojanti SARS-CoV-2 smaigalio baltymą, originalus
+      virusas, 5 mikrogramai"
     VAL331: "CMV immune globulin"
     VAL338: "RSV antikūnas arba vakcina, nepatikslinta"
-    VAL383: "Single-stranded 5' capped mRNA encoding the Respiratory syncytial virus glycoprotein F stabilized in the prefusion conformation"
-
+    VAL383: "Single-stranded 5' capped mRNA encoding the Respiratory syncytial virus
+      glycoprotein F stabilized in the prefusion conformation"
