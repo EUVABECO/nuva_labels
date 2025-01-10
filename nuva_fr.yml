@@ -62,6 +62,7 @@ en:
     DIS075: "Fièvre de la vallée du Rift"
     DIS076: "Infection urinaire "
     DIS077: "Entérovirus"
+    DIS078: Lèpre
   vaccine:
     VAC0084: "Vaccin Grippe prépandémique H5N1, sans précision"
     VAC0088: "Vaccin DTP - Diphtérie-Tétanos-Polio, sans précision"
@@ -322,8 +323,7 @@ en:
       codant la protéine de pointe du SARS-CoV-2, sans précision"
     VAC1140: "Vaccin Covid 19 bivalent à ARNm contre le virus originel et le variant
       Omicron BA.4/5, sans précision"
-    VAC1141: "Vaccin Covid 19 à sous-unité protéique, protéine de pointe recombinante,
-      sans précision"
+    VAC1141: "Nouveau vaccin contre la grippe aviaire H5N8, sans précision"
     VAC1142: "Vaccin Covid 19 à vecteur viral non replicatif avec cellules présentant
       l'antigène, sans précision"
     VAC1143: "Vaccin Covid 19 à vecteur viral non réplicatif, adénovirus codant la
@@ -497,6 +497,7 @@ en:
       B 15µg, sans précision"
     VAC1257: "Vaccin Choléra, entier inactivé oral, bivalent contenant les bactéries
       V. cholerae O1 et O139 entières inactivées, sans précision"
+    VAC1264: Vaccin A(H5) contre la grippe aviaire, type de neuraminidase non précisé
   valence:
     VAL001: "Vaccin trivalent vivant atténué contre la grippe, dose normale"
     VAL002: "Vaccin typhoïdique conjugué, antigène capsulaire polyosidique Vi lié
@@ -566,7 +567,7 @@ en:
     VAL049: "Vaccin anti-Hib polyoside non conjugué"
     VAL050: "Vaccin anti-covid 19 à vecteur viral non réplicatif, adénovirus 5 codant
       la protéine de pointe du SARS-CoV-2, sans précision"
-    VAL051: "Vaccin pré-pandémique contre la grippe A(H5N1)"
+    VAL051: "Valence A(H5N1) contre la grippe aviaire"
     VAL052: "Vaccin VLP contre les papillomavirus quadrivalent, types 6, 11, 16 et
       18"
     VAL053: "Vaccin anti-covid 19 à sous-unité protéique, sans précision"
@@ -680,7 +681,7 @@ en:
     VAL138: "Vaccin méningococcique W, polyoside non conjugué"
     VAL139: "Vaccin méningococcique Y, polyoside non conjugué"
     VAL140: "Vaccin vivant atténué contre la grippe, sans précision"
-    VAL141: "Vaccin monovalent RIX4414 contre le rotavirus "
+    VAL141: "Vaccin monovalent RIX4414 contre le rotavirus"
     VAL142: "Vaccin entier inactivé contre l'hépatite A, monovalent, dose pédiatrique"
     VAL143: "Vaccin entier inactivé contre l'hépatite A, bivalent (hépatites A et
       B), dose pédiatrique"
@@ -995,3 +996,6 @@ en:
       dans des nanoparticules, sous-variant Omicron JN.1"
     VAL383: "ARNm simple brin coiffé en 5' codant pour la glycoprotéine F du virus
       respiratoire syncytial stabilisé dans la conformation de préfusion"
+    VAL384: Valence contre la lèpre, sans précision
+    VAL385: Valence A(H5N8) contre la grippe aviaire
+    VAL386: Valence A(H5) contre la grippe aviaire, sans précision
