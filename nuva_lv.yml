@@ -34,7 +34,7 @@ lv:
     DIS045: "Meningokokas B"
     DIS046: "Meningokokas W"
     DIS047: "Meningokokas Y"
-    DIS048: "Meningokokas"
+    DIS048: "Meningokoks"
     DIS050: "Paukščių gripas"
     DIS051: "Juodligė"
     DIS052: "Botulizmas"
@@ -61,6 +61,8 @@ lv:
     DIS074: "Streptococcus pyogenes"
     DIS075: "Rifto slėnio karštligė"
     DIS076: "Šlapimo takų infekcija"
+    DIS077: Enterovīruss
+    DIS078: Lepra
   vaccine:
     VAC0084: "H5N1 pre-pandemic influenza vaccine, unspecified"
     VAC0088: "DTIPV vaccine, unspecified"
@@ -242,10 +244,9 @@ lv:
     VAC0944: "Inaktyvuota viso viriono geriamoji choleros vakcina, nepatikslinta"
     VAC0945: "Meningokokinės vakcinos serogrupė nežinoma, nepatikslinta"
     VAC0997: "13-valentė konjuguota pneumokokinė vakcina, nepatikslinta"
-    VAC1037: "Vakcina nuo erkinio encefalito, Neudörfl padermė, dozė vaikams, nepatikslinta"
-    VAC1038: "Vakcina nuo erkinio encefalito, Neudörfl padermė, dozė suaugusiems,
-      nepatikslinta"
-    VAC1039: "COVID-19 mRNR vakcina, originalus virusas, 50 µg, nepatikslinta"
+    VAC1037: "Ērču encefalīta vakcīna, Neudörfl celms, pediatriskā deva, neprecizēta"
+    VAC1038: "Ērču encefalīta vakcīna, Neudörfl celms, pieaugušo deva, neprecizēta"
+    VAC1039: "Covid-19 mRNA vakcīna, oriģinālais vīruss, 50 µg, neprecizēts"
     VAC1041: "COVID-19 RNR vakcina, nepatikslinta"
     VAC1042: "COVID-19 vakcina, nesidauginantis virusinis vektorius, nepatikslintas"
     VAC1043: "COVID-19 vakcina, baltymų subvienetas, nepatikslintas"
@@ -259,9 +260,156 @@ lv:
     VAC1068: "Rifto slėnio karštligės vakcina, nepatikslinta"
     VAC1069: "Vaccinia immune globulin"
     VAC1071: "RSV antikūnas arba vakcina, nepatikslinta"
-    VAC1072: "COVID-19 mRNR vakcina, originalus virusas, 25 µg, nepatikslinta"
+    VAC1072: "Covid-19 mRNS vakcīna, oriģinālais vīruss, 25 µg, neprecizēts"
     VAC1073: "Laimo ligos vakcina, nepatikslinta"
     VAC1075: "Neląstelinė juodligės vakcina, nepatikslinta"
+    VAC1106: Covid-19 VLP vakcīna, neprecizēta
+    VAC1107: Pilna inaktivēta holēras vakcīna, neprecizēta
+    VAC1108: Bivalenta Covid-19 mRNS vakcīna pret oriģinālo vīrusu un Omicron 
+      BA.1 variantu, neprecizēta
+    VAC1109: ACW nekonjugēta meningokoku vakcīna, neprecizēta
+    VAC1121: Heksavalenta vakcīna DTPaHibPHepB - difterijas-stingumkrampju-garā 
+      klepus-b tipa Haemophilus influenzae (Hib)-Polio-Hepatīta B 10µg, 
+      neprecizēta.
+    VAC1122: 1. paaudzes dzīvā vakcīna pret bakām, neprecizēta
+    VAC1123: Dzīva novājināta trivalenta gripas vakcīna, neprecizēta
+    VAC1124: Inaktivēta pilna vīrusa vakcīna pret Covid-19, klīniskā pētījumā, 
+      neprecizēta
+    VAC1125: B hepatīta vakcīna, neprecizēta
+    VAC1126: Pentavalenta DTP Hib vakcīna - difterijas-stingumkrampju-garā 
+      klepus-Hib vakcīna PRP-Polio, neprecizēta
+    VAC1127: Imunoglobulīns pret A hepatītu, masalām, vējbakām un masaliņām, 
+      neprecizēts
+    VAC1128: DNS plazmīdu Covid-19 vakcīna, neprecizēta
+    VAC1129: Vakcīna pret Covid-19 proteīna apakšvienību, rekombinants pīķa 
+      proteīns nanodaļiņās, neprecizēts
+    VAC1130: Trivalenta inaktivēta sezonālās gripas vakcīna un stingumkrampju 
+      toksoīds, neprecizēts
+    VAC1131: 17-valenta nekonjugēta pneimokoku vakcīna, neprecizēta
+    VAC1132: Bivalenta Covid-19 mRNS vakcīna pret oriģinālo vīrusu un Omicron 
+      BA.4/5 variantu, 1,5 mikrogrami, neprecizēta
+    VAC1133: Meningokoku ACWY polisaharīdu konjugētā vakcīna, neprecizēta
+    VAC1134: Dzīva novājināta vakcīna pret Argentīnas hemorāģisko drudzi, 
+      Juninas vīrusu, neprecizēta
+    VAC1135: Covid-19 vakcīna ar nereplicējošu vīrusu vektoru, adenovīrusu, kas 
+      kodē SARS-CoV-2 pīķa proteīnu, inhalācijas veidā, neprecizēta
+    VAC1136: 23-valenta pneimokoku konjugētā vakcīna, neprecizēta
+    VAC1137: Pilna inaktivēta vakcīna pret ērču encefalītu, K23 celms, 
+      neprecizēta
+    VAC1138: Covid-19 proteīna apakšvienības vakcīna, neprecizēta
+    VAC1139: Nereplicējoša vektora Covid-19 vakcīna, Ņūkāslas slimības vīruss, 
+      kas kodē SARS-CoV-2 pīķa proteīnu, neprecizēta
+    VAC1140: Bivalenta Covid-19 mRNS vakcīna pret oriģinālo vīrusu un Omicron 
+      BA.4/5 variantu, neprecizēta
+    VAC1141: Jauna putnu gripas H5N8 vakcīna, neprecizēta
+    VAC1142: Nereplicējoša vīrusa vektora Covid-19 vakcīna ar antigēnu 
+      pārstāvošām šūnām, neprecizēta
+    VAC1143: Nereplicējoša vīrusa vektora Covid-19 vakcīna ar adenovīrusu, kas 
+      kodē SARS-CoV-2 pīķa proteīnu, neprecizēta
+    VAC1144: Covid-19 proteīna apakšvienības vakcīna, rekombinants SARS-CoV-2 
+      pīķa proteīns, S-2P un CpG1018, neprecizēta
+    VAC1145: Rekombinantā B hepatīta vakcīna, trīs antigēni, neprecizēta
+    VAC1146: Inaktivēta četrvalenta gripas vakcīna, liela deva, neprecizēta
+    VAC1147: Cilvēka monoklonālā antiviela pret respiratori sincitiālo vīrusu 
+      (RSV), nirsevimabs, neprecizēta
+    VAC1148: Haemophilus influenzae b tipa nekonjugēta polisaharīda vakcīna, 
+      neprecizēta
+    VAC1149: Perorāla dzīva novājināta holēras vakcīna, neprecizēta
+    VAC1150: mRNS Covid-19 vakcīna, kas kodē SARS-CoV-2 pīķa proteīnu, 
+      oriģinālais vīruss, 30 mikrogrami, neprecizēta
+    VAC1151: Kvadrivalentā DTPeP vakcīna - Difterijas-Stingumkrampju-Garā 
+      klepus-Poliomielīta, neprecizēta
+    VAC1152: Meningokoka B vakcīna, kas satur A un B apakšdzimtas fHbp, 
+      neprecizēta
+    VAC1153: Kvadrivalentā meningokoku ACWY vakcīna, difterijas toksoīda 
+      konjugāta, neprecizēta
+    VAC1154: Pilna inaktivētā epidēmiskā parotīta vakcīna, neprecizēta
+    VAC1155: Plazmas B hepatīta vakcīna, neprecizēta
+    VAC1156: Imūnglobulīns pret botulismu, neprecizēts
+    VAC1157: 3. paaudzes vakcīna pret bakām, modificēts Ankara vaccinia vīruss, 
+      neprecizēts
+    VAC1158: mRNS Covid-19 vakcīna pret Omicron XBB.1.5 variantu, 3 mikrogrami, 
+      neprecizēta
+    VAC1159: Rekombinantā trivalentā gripas vakcīna, neprecizēta
+    VAC1160: 2. paaudzes dzīvā vakcīna pret bakām, neprecizēta
+    VAC1161: Kvadrivalentā DTPeP vakcīna - difterijas-stingumkampju- garā 
+      klepus-Hib PRP, neprecizēta
+    VAC1162: Bivalenta mRNS Covid-19 vakcīna pret oriģinālo vīrusu un Omicron 
+      BA.1 variantu, 15 mikrogrami, neprecizēta
+    VAC1163: 20-valenta pneimokoku konjugētā vakcīna, neprecizēta
+    VAC1164: Kvadrivalenta DTPaHib - Difterijas-Stingumkrampju-Garā klepus-Hib 
+      PRP vakcīna, neprecizēta
+    VAC1165: Difterijas toksoīds, standarta deva, neprecizēts
+    VAC1166: mRNS Covid-19 vakcīna, kas kodē SARS-CoV-2 pīķa proteīnu, pašlaik 
+      klīniskajā izpētē, neprecizēta
+    VAC1167: Acelulārā garā klepus vakcīna, neprecizēta
+    VAC1168: Kvadrivalenta DTPeHib - difterijas-stingumkrampju-garā klepus-Hib 
+      OC vakcīna, neprecizēta
+    VAC1169: Bivalenta mRNS Covid-19 vakcīna pret oriģinālo vīrusu un Omicron 
+      BA.4/5 variantu, 15 mikrogrami, neprecizēta
+    VAC1170: Nereplicējoša vīrusa vektora Covid-19 vakcīna, šimpanzes 
+      adenovīruss ChadOx1, kas kodē SARS-CoV-2 pīķa proteīnu
+    VAC1171: Inaktivēta trivalenta gripas vakcīna, liela deva, neprecizēta
+    VAC1172: Difterijas toksoīds, samazināta deva, neprecizēts
+    VAC1173: Covid-19 vakcīna ar replikatīvu vīrusu vektoru, gripas vīrusu, kas 
+      kodē SARS-CoV-2 pīķa proteīnu, neprecizēta
+    VAC1174: Pentavalenta DTPaPHepB vakcīna - difterija-stingumkrampji-garais 
+      klepus-poliomielīts-B hepatīts 10µg, neprecizēta
+    VAC1175: Inaktivēta trivalenta gripas vakcīna šūnu kultūrā, parasta deva, 
+      neprecizēta
+    VAC1176: Covid-19 vakcīna ar nereplicējošu vīrusa vektoru, adenovīrusu 5, 
+      kas kodē SARS-CoV-2 S un N olbaltumvielas, neprecizēta
+    VAC1177: 3. paaudzes vakcīna pret bakām, dzīvs vaccinia vīruss ar minimālu 
+      replikāciju, neprecizēta
+    VAC1178: Tetravalenta Denges vakcīna, dzīvā novājinātā himēriskā 
+      rekombinantā, neprecizēta
+    VAC1179: Vakcīna pret holēru un vēdertīfu, injicējama, neprecizēta
+    VAC1180: Rekombinanta vakcīna pret Laima slimību, neprecizēta
+    VAC1181: Pentavalentā vakcīna DTPeHibHepB - difterija-stingumkrampji-garais 
+      klepus-Hib PRP-B hepatīts 10µg, neprecizēta
+    VAC1182: Meningokoku ACWY polisaharīda vakcīna, konjugēta ar stingumkrampju 
+      toksoīdu, neprecizēta
+    VAC1183: Nereplicējoša vīrusa vektora Ebolas vakcīna, neprecizēta
+    VAC1184: Meningokoka C polisaharīda vakcīna, konjugēta ar stingumkrampju 
+      toksoīdu, neprecizēta
+    VAC1185: Covid-19 vakcīna ar nereplicējošu vīrusu vektoru, adenovīrusu 26, 
+      kas kodē SARS-CoV-2 pīķa proteīnu, neprecizēta
+    VAC1186: Covid-19 vakcīna ar replicējošu vīrusa vektoru ar antigēnu 
+      prezentējošām šūnām, neprecizēta
+    VAC1187: Covid-19 vakcīna ar replicējošu vīrusu vektoru, masalu vīrusu, kas 
+      kodē SARS-CoV-2 pīķa proteīnu, neprecizēta
+    VAC1188: mRNS Covid-19 vakcīna, kas kodē SARS-CoV-2 pīķa proteīnu, 
+      oriģinālais vīruss, 3 mikrogrami, neprecizēta
+    VAC1189: Nereplicējoša vektora Covid-19 vakcīna, modificēta Ankaras vakcīna,
+      kas kodē SARS-CoV-2 pīķa proteīnu, neprecizēta.
+    VAC1190: Covid-19 vakcīna ar replikatīvu vīrusu vektoru, vezikulārā 
+      stomatīta vīruss, kas kodē SARS-CoV-2 pīķa proteīnu, neprecizēts
+    VAC1191: Vakcīna urīnceļu infekciju profilaksei sievietēm, neprecizēta
+    VAC1192: Pentavalentā vakcīna DTPePHibHepB - 
+      Difterija-Tetanuss-Pertussis-Hib OC-HepatītsB 10µg, neprecizēta
+    VAC1193: Japānas encefalīta vakcīna, dzīvā rekombinētā novājinātā, 
+      neprecizēta
+    VAC1194: Vakcīnas pret stingumkrampjiem, vēdertīfu un paratīfu A un B, 
+      neprecizētas
+    VAC1195: Covid-19 vakcīna ar nereplicējošu vīrusu vektoru, adenovīrusu 26, 
+      kas kodē SARS-CoV-2 pīķa proteīnu, klīniskā pētījumā, neprecizēts.
+    VAC1110: Meningokoku C nekonjugēta vakcīna, neprecizēta
+    VAC1111: Vakcīna pret Japānas encefalītu, inaktivēta, sagatavota uz Vero 
+      šūnām, neprecizēta
+    VAC1112: Dzīva novājināta četrvalenta gripas vakcīna, neprecizēta
+    VAC1113: Covid-19 proteīna apakšvienības vakcīna, rekombinants pīķa 
+      proteīns, neprecizēts
+    VAC1114: Vakcīna pret vēdertīfu un A hepatītu, neprecizēta
+    VAC1115: Pentavalentā vakcīna DTPaHibP - difterija-stingumkrampji-garais 
+      klepus-b tipa Haemophilus influenzae PRP-Poliomielīts, neprecizēta.
+    VAC1116: Vakcīna pret trakumsērgu, vesela inaktivēta, sagatavota Vero šūnu 
+      kultūrā, neprecizēta
+    VAC1117: Bivalenta Covid-19 mRNS vakcīna pret oriģinālo vīrusu un Omicron 
+      BA.4/5 variantu, 5 mikrogrami, neprecizēta
+    VAC1118: Enterovīrusa A71 vakcīna, neprecizēta
+    VAC1119: Inaktivēta pilna vīrusa vakcīna pret Covid-19, autorizēta, 
+      neprecizēta
+    VAC1120: Trivalenta leptospirozes vakcīna, neprecizēta
   valence:
     VAL001: "Trivalentė gyva susilpninta gripo vakcina, įprastinė dozė"
     VAL002: "Konjuguota vakcina nuo vidurių šiltinės, Vi polisacharidinis antigenas,
